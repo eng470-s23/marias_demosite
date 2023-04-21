@@ -8,15 +8,24 @@
 - notes go here
 
 ## pitch
-- My research topic is:
-- My research question is:
-- I expect to work with the following *materials*:
-- I plan to *process* these materials by:
-- I plan to *present* these materials by:
-- My final submission will take this form: 
-- This project is intended to engage these audiences and communities:
-- I bring the following existing knowledge and/or skills to the project: 
-- In order to do this project, I need to learn: 
+- My research topic is: women's labor activism in Oregon after WW2 
+
+- My research question is: How did WW2 impact women's attitudes towards labor and their roles within the workforce?
+
+- I expect to work with the following *materials*: I plan to work with both secondary and primary sources during this project. I have found some articles already on this topic as well as some data about labor during the 20th century and photos that I have requested and will look at most likely next week. 
+
+- I plan to *process* these materials by: I need to read through and take notes on these materials to get more knowledge and background for this project. I think if this data applies, I will need to assess what sort of data I have (I requested a few different sources and am not certain which will apply) and then based on what data works, process it in ways that work. I also hope that I will be able to find some relevant photos, I requested a book that has photos in it, but those photos will need to be scanned or I will take photos of them so that they can be used digitally. 
+
+- I plan to *present* these materials by: I would like to have an information section and different areas with written information, and I would like to use maps, graphs, and photos in this project. 
+
+- My final submission will take this form: I would like to submit my project in the form of a website, I'd like to highlight a few important people/groups with info about them, have a space with archives for primary sources, and then potentially include a maps with important spaces or numerical data/graphs about participants in the workforce and how things changed over time. I would also like it to have photos. 
+
+- This project is intended to engage these audiences and communities: I think that the intended audience for this project is labor historians and scholars, and I would also like students (both undergrad and graduate) who may not be from Oregon but live here for school to be able to learn about the labor history of Oregon. I think a lot of students and GE's deal with difficult situations with jobs both through the school and outside of school and I would like to show them the rich history of activism here to encourage them to not accept unfair treatment. 
+
+- I bring the following existing knowledge and/or skills to the project: I already have background and experience with research, so I feel confident in my ability to find sources and important information and feel comfortable with the research process itself and the potential issues or problems that come with research. 
+
+- In order to do this project, I need to learn: I think I need to learn more about making a website. I feel like when I have tried in the past i can't always get it to look the way that I want it to so I would like to learn more about customizing the site to look the way I want. I think I also need to learn more about processing research and presenting it in a way that isn't a research paper, and digitizing paper documents/photos. 
+
 
 ---
 # week 4 
