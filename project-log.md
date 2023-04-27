@@ -41,10 +41,14 @@
 - *at least four peer-reviewed scholarly sources framing and informing your thinking: articles, chapters, or books published by university or academic presses, or excerpts from academic reference sources (note that being deposited in Scholars' Bank does *not* mean a source is peer reviewed.)*
 - *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
-1. source #1
-2. source #2
-3. source #3
-4. source #4
+1. source #1: Mercier, Laurie. “Breadwinning, Equity, and Solidarity: Labor Feminism in Oregon, 1945–1970.” Oregon Historical Quarterly, vol. 120, no. 1, 2019, pp. 6–45. JSTOR, https://doi.org/10.5403/oregonhistq.120.1.0006. Accessed 20 Apr. 2023.
+
+2. source #2: Amy E. Platt. “‘Go into the Yard as a Worker, Not as a Woman’: Oregon Women During World War II, a Digital Exhibit on the Oregon History Project.” Oregon Historical Quarterly, vol. 116, no. 2, 2015, pp. 234–48. JSTOR, https://doi.org/10.5403/oregonhistq.116.2.0234. Accessed 20 Apr. 2023. 
+
+3. source #3: Diane Simmons. “Rejection, Reception, and Rejection Again: Women in Oregon’s World War II Shipyards.” Oregon Historical Quarterly, vol. 119, no. 1, 2018, pp. 96–119. JSTOR, https://doi.org/10.5403/oregonhistq.119.1.0096. Accessed 27 Apr. 2023.
+
+4. source #4: Polishuk, S. (2003). *Sticking to the Union: An Oral History of the Life and Times of Julia Ruuttila. Palgrave Macmillan. 
+
 5. source #5
 6. source #6
 7. source #7
