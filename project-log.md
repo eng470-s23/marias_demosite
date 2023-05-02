@@ -34,6 +34,7 @@
 
 ## search log
 Library searches:
+
 https://alliance-uoregon.primo.exlibrisgroup.com/discovery/search?query=any,contains,Eugene%20AND%20labor&tab=Rollup&search_scope=MyInstitution&vid=01ALLIANCE_UO:UO&mfacet=library,include,1852%E2%80%9313665690001852,1&lang=en&offset=0&came_from=pagination_2_1
 
 https://alliance-uoregon.primo.exlibrisgroup.com/discovery/favorites?vid=01ALLIANCE_UO:UO&lang=en&section=items
@@ -64,6 +65,7 @@ https://www.oregonencyclopedia.org/articles/portland_womens_union/#.ZEhFc-zMJ0s
 https://www.ohs.org/oregon-historical-quarterly/back-issues/upload/Dilg_For-Working-Women-in-Oregon_OHQ-Spring-2009.pdf 
 
 Shipyards: 
+
 https://digitalcollections.ohs.org/coll-883-northwest-womens-history-project-records-and-interviews 
 
 https://www.oregonencyclopedia.org/articles/kaiser_shipyards/#.ZEwvHOzMLs0
