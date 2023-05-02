@@ -30,11 +30,11 @@
 ---
 # week 4 
 ## notes
-- I think I'm sort of changing directions - women's work in industrial fields during WW2 (ex shipyards which was a dominant industry in Poretland) and how that influenced and informed women's labor activism in Oregon 
+- I think I'm sort of changing directions - women's work in industrial fields during WW2 (ex shipyards which was a dominant industry in Portland) and how that influenced and informed women's labor activism in Oregon 
 
 ## search log
 
-for most of my searches, through both the library and JSTOR, I was able to find a lot of sources through key words without having to narrow down the searches a lot. Many of my sources came from a search of like "women labor WW2 oregon" or just "oregon labor ww2" 
+for most of my searches, through both the library and JSTOR, I was able to find a lot of sources through key words without having to narrow down the searches a lot. Many of my sources came from a search of like "women labor WW2 oregon" or just "oregon labor ww2" - sorry I didnt really write it down :(
 
 Library searches:
 
