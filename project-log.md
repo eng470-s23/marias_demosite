@@ -33,6 +33,9 @@
 - I think I'm sort of changing directions - women's work in industrial fields during WW2 (ex shipyards which was a dominant industry in Poretland) and how that influenced and informed women's labor activism in Oregon 
 
 ## search log
+
+for most of my searches, through both the library and JSTOR, I was able to find a lot of sources through key words without having to narrow down the searches a lot. Many of my sources came from a search of like "women labor WW2 oregon" or just "oregon labor ww2" 
+
 Library searches:
 
 https://alliance-uoregon.primo.exlibrisgroup.com/discovery/search?query=any,contains,Eugene%20AND%20labor&tab=Rollup&search_scope=MyInstitution&vid=01ALLIANCE_UO:UO&mfacet=library,include,1852%E2%80%9313665690001852,1&lang=en&offset=0&came_from=pagination_2_1
