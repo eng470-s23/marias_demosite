@@ -33,7 +33,68 @@
 - I think I'm sort of changing directions - women's work in industrial fields during WW2 (ex shipyards which was a dominant industry in Poretland) and how that influenced and informed women's labor activism in Oregon 
 
 ## search log
-- search log goes here
+Library searches:
+https://alliance-uoregon.primo.exlibrisgroup.com/discovery/search?query=any,contains,Eugene%20AND%20labor&tab=Rollup&search_scope=MyInstitution&vid=01ALLIANCE_UO:UO&mfacet=library,include,1852%E2%80%9313665690001852,1&lang=en&offset=0&came_from=pagination_2_1
+
+https://alliance-uoregon.primo.exlibrisgroup.com/discovery/favorites?vid=01ALLIANCE_UO:UO&lang=en&section=items
+
+https://alliance-uoregon.primo.exlibrisgroup.com/discovery/search?query=any,contains,women%20labor%20oregon&tab=Rollup&search_scope=Everything&vid=01ALLIANCE_UO:UO&mfacet=tlevel,include,peer_reviewed,1&offset=0
+
+https://alliance-uoregon.primo.exlibrisgroup.com/discovery/search?query=any,contains,IWW%20oregon&tab=Rollup&search_scope=Everything&vid=01ALLIANCE_UO:UO&lang=en&offset=50
+
+https://alliance-uoregon.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01ALLIANCE_UO:UO&search_scope=Everything&tab=Rollup&docid=alma99900210696701852
+
+sources: 
+
+https://www.jstor.org/stable/pdf/10.5403/oregonhistq.120.1.0006.pdf?refreqid=excelsior%3A930bac58ba29502cff9b91d9f01aaa7c&ab_segments=&origin=&initiator=&acceptTC=1
+
+https://www.jstor.org/stable/10.5403/oregonhistq.116.2.0234?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A85ab6e2d2ed9bfd90ef59e7955548852&seq=1 
+
+https://digitalcollections.ohs.org/labor-leaders 
+
+https://www.ohs.org/events/home-front-stories-of-world-war-ii.cfm 
+
+https://librarycatalog.ohs.org/O90000/OPAC/Search/SimpleSearch.aspx?TaskCode=1776869&TitleListPageSize=20&SavedSearch=true 
+
+https://archiveswest.orbiscascade.org/search.php?r=orhi&facet=subject%3AWomen&p=2 
+
+https://archiveswest.orbiscascade.org/ark:80444/xv80114
+https://www.oregonencyclopedia.org/articles/portland_womens_union/#.ZEhFc-zMJ0s
+
+https://www.ohs.org/oregon-historical-quarterly/back-issues/upload/Dilg_For-Working-Women-in-Oregon_OHQ-Spring-2009.pdf 
+
+Shipyards: 
+https://digitalcollections.ohs.org/coll-883-northwest-womens-history-project-records-and-interviews 
+
+https://www.oregonencyclopedia.org/articles/kaiser_shipyards/#.ZEwvHOzMLs0
+
+https://www.oregonhistoryproject.org/women-in-the-shipyards/ 
+
+https://www.oregonhistoryproject.org/articles/child-service-centers-swan-island-shipyards/#.ZEwx7OzMLs0 
+
+https://www.oregonhistoryproject.org/articles/grandma-crew-at-oregon-shipbuilding-co/#.ZEwyCuzMLs0 
+
+Kesselman, Amy. Fleeting Opportunities: Women Shipyard Workers in Portland and Vancouver during World War II and Reconversion. Albany: State University of New York, 1990. 
+
+https://www.oregonhistoryproject.org/articles/historical-records/handbook-for-new-women-shipyard-workers/#.ZEwyUOzMLs0 
+
+https://www.oregonhistoryproject.org/articles/historical-records/iona-murphy-at-oregon-shipbuilding-corp-portland/#.ZEwyaezMLs0 
+
+https://www.oregonhistoryproject.org/articles/historical-records/kaiser-amp-oregon-shipyards/#.ZEwyguzMLs0
+
+Lansing, Jewel. Portland People, Politics, and Power 1851 – 2001. Corvallis: Oregon State University Press, 2003.
+
+https://archiveswest.orbiscascade.org/search.php?r=orhi&q=women+shipyard+world+war+2
+
+WW2: 
+
+https://www.jstor.org/stable/10.5403/oregonhistq.119.1.0096?searchText=women+labor&searchUri=%2Faction%2FdoBasicSearch%3Fscope%3DeyJwYWdlTmFtZSI6ICJPcmVnb24gSGlzdG9yaWNhbCBRdWFydGVybHkiLCAicGFnZVVybCI6ICIvam91cm5hbC9vcmVnb25oaXN0cSIsICJ0eXBlIjogImpvdXJuYWwiLCAiamNvZGVzIjogIm9yZWdvbmhpc3RxOnFvcmVnb25oaXN0c29jOnNvdXJoaXN0b3JlZyJ9%26Query%3Dwomen%2Blabor&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Ae06517d1d1eae70ce5da41ffe08af478
+
+Includes other sources: 
+
+https://www.jstor.org/stable/10.5403/oregonhistq.113.3.0505?searchText=women+labor&searchUri=%2Faction%2FdoBasicSearch%3Fscope%3DeyJwYWdlTmFtZSI6ICJPcmVnb24gSGlzdG9yaWNhbCBRdWFydGVybHkiLCAicGFnZVVybCI6ICIvam91cm5hbC9vcmVnb25oaXN0cSIsICJ0eXBlIjogImpvdXJuYWwiLCAiamNvZGVzIjogIm9yZWdvbmhpc3RxOnFvcmVnb25oaXN0c29jOnNvdXJoaXN0b3JlZyJ9%26Query%3Dwomen%2Blabor&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A5de8a19efde7ca509865dd22590a6459&seq=2
+
+
 
 ## bibliography
 *The bibliography should include at least seven (7) sources:*
@@ -53,10 +114,16 @@
 
 6. source #6: Oregon History Project. “Women in the Shipyards.” *Oregon, WWII, Women, and Work,* Oregon Historical Society, www.oregonhistoryproject.org/women-in-the-shipyards/. 
 
-8. source #7: Oliver, Gordon. “Kaiser Shipyards.” *The Oregon Encyclopedia,* Oregon Historical Society , www.oregonencyclopedia.org/articles/kaiser_shipyards/#.ZEwxeezMLs1. 
+7. source #7: Oliver, Gordon. “Kaiser Shipyards.” *The Oregon Encyclopedia,* Oregon Historical Society , www.oregonencyclopedia.org/articles/kaiser_shipyards/#.ZEwxeezMLs1. 
 
 ## reading plan
-- reading plan goes here
+- read source 1: 5/1
+- read source 2: 5/1
+- read source 3: 5/3
+- read source 4: already read - go back through highlighted sections & take notes 5/3
+- source 5: choose and listen to 3 interviews: 5/5
+- source 6: 5/5
+- source 7: 5/7
 
 ---
 # week 5
