@@ -133,7 +133,7 @@ https://www.jstor.org/stable/10.5403/oregonhistq.113.3.0505?searchText=women+lab
 ---
 # week 5
 ## notes
-- notes go here
+- How did the experiences of different groups of women workingf in shipyards in Portland during WW2 change based on their race/age? (indigenous women, black women, elderly women) 
 
 ## research question
 
