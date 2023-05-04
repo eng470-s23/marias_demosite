@@ -1,11 +1,11 @@
 # week 2
 ## notes
-- notes go here
+-
 
 ---
 # week 3
 ## notes
-- notes go here
+-
 
 ## pitch
 - My research topic is: women's labor activism in Oregon after WW2 
@@ -102,10 +102,6 @@ https://www.jstor.org/stable/10.5403/oregonhistq.113.3.0505?searchText=women+lab
 
 
 ## bibliography
-*The bibliography should include at least seven (7) sources:*
-- *at least one primary (literary or archival) source or dataset you are studying or examining;* 
-- *at least four peer-reviewed scholarly sources framing and informing your thinking: articles, chapters, or books published by university or academic presses, or excerpts from academic reference sources (note that being deposited in Scholars' Bank does *not* mean a source is peer reviewed.)*
-- *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
 1. source #1: Mercier, Laurie. “Breadwinning, Equity, and Solidarity: Labor Feminism in Oregon, 1945–1970.” *Oregon Historical Quarterly,* vol. 120, no. 1, 2019, pp. 6–45. JSTOR, https://doi.org/10.5403/oregonhistq.120.1.0006. Accessed 20 Apr. 2023.
 
@@ -138,16 +134,17 @@ https://www.jstor.org/stable/10.5403/oregonhistq.113.3.0505?searchText=women+lab
 ## research question
 
 ## annotated bibliography
-*Each annotation should include:*
-- *a full citation in Chicago, MLA, APA, or AP style (or another style appropriate to your discipline, with approval)*
-- *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
+
+- I think at this stage I'm using them for internal information, but I would like to use these in portfolio eventually, I just think they need to be polished a little before I can publish them. I made them with the idea that it would just be me seeing them but I would like to publish them eventually. 
 
 ### source 1 annotation
 - citation: Mercier, Laurie. “Breadwinning, Equity, and Solidarity: Labor Feminism in Oregon, 1945–1970.” Oregon Historical Quarterly, vol. 120, no. 1, 2019, pp. 6–45. JSTOR, https://doi.org/10.5403/oregonhistq.120.1.0006. Accessed 20 Apr. 2023
 
-- summary: Mercier's article mainly discusses women's labor activism during the post war period to the 70s. She discusses the unique conditions of labor in Oregon, the purposeful exclusion of women of color from unions, the necessity for childcare for workers, and the ways in which white women attempted to portray themselves as workers rather than women in attempts to fight for higher wages and better working conditions alongside men. She also discusses key figures in the women's labor movement, as well as key events. This article discusses the ideology and viewpoint of white female activists, as well as those around them - including male activists and union members, and larger groups of people in the area. 
+- summary: Mercier's article mainly discusses women's labor activism during the post war period through the 70s. She discusses the unique conditions of labor in Oregon, the purposeful exclusion of women of color from unions, the necessity for childcare for workers, and the ways in which white women attempted to portray themselves as workers rather than women in attempts to fight for higher wages and better working conditions alongside men. Another thing that Mercier discusses is key figures in the women's labor movement, as well as key events. This article discusses the ideology and viewpoint of white female activists, as well as those around them - including male activists and union members, and larger groups of people in the area. 
 
 - potential use for project: For my project, I have begun to move more in the direction of women's industrial labor during World War 2 and how it impacted the labor movement in Oregon. I think I will use this source to help aid my description of the labor movement during the post war period, the ideology and views of white women during this period, and use it to provide background and context for other sources.
+
+- indication of general utility of source: I think that this source is beneficial to inform the broader public of the labor movement during the post war period (ww2) and the ideology and views of white women during this period; I think the main use of this source is to provide background knowledge. 
 
 ### source 2 annotation
 - citation: Amy E. Platt. “‘Go into the Yard as a Worker, Not as a Woman’: Oregon Women During World War II, a Digital Exhibit on the Oregon History Project.” Oregon Historical Quarterly, vol. 116, no. 2, 2015, pp. 234–48. JSTOR, https://doi.org/10.5403/oregonhistq.116.2.0234. Accessed 20 Apr. 2023.
@@ -155,13 +152,15 @@ https://www.jstor.org/stable/10.5403/oregonhistq.113.3.0505?searchText=women+lab
 - summary: Platt's writing details the experiences and specifics of women who entered different areas of the workforce, especially  related to war-production. She uses numbers and percentages to provide a picture of the workforce in Oregon, and goes into depth about the experiences of black women in the shipyards in Portland. She goes into post war conditions in Oregon for women as men came back from war, and Platt mentions more in depth the post war experience of women of color in Oregon - particularly Black and Japanese American women. She then gives pages to a few different women who worked during the war and goes in depth about what they did and their experience. In the midst of these individual shoutouts, she provides a page of information about Indigenous women in Oregon who worked in the shipyards.
 
 - potential use for project: I think because Platt uses some statistics in this article, particularly in regards to numbers of women working in industrial fields in Oregon and the numbers of women in the work force during this period - I would like to use those specifics in my project. Platt also wrote a profile of a female welder who worked in the shipyards, and wrote about Indiegnous women working in the shipyards, and I would like to use the information from both of these pages in my project (not sure how yet). I really like that Platt provided information about women of color and their experiences and I would also like to do the same. 
+- indication of general utility of source: Platt's article provides specific numbers, particularly in regards to numbers of women working industrial fields in Oregon and the numbers of women in the work force during this period, which could be useful for different projects. Platt also provides profiles and experiences of specific women, and discusses the experience of women of color which could be useful to provide further background information, or one could use these specifics in a project. 
 
 ### source 3 annotation
 - citation: Diane Simmons. “Rejection, Reception, and Rejection Again: Women in Oregon’s World War II Shipyards.” Oregon Historical Quarterly, vol. 119, no. 1, 2018, pp. 96–119. JSTOR, https://doi.org/10.5403/oregonhistq.119.1.0096. Accessed 27 Apr. 2023.
 
-- summary: Simmons begins her discussion of women's labor in the shipyards with the mention of Rosie the Riveter, both the original poster and the version created by Norman Rockwell. Simmons then moves on to discuss the viewpoint that many people, men in particular, around Oregon had of women doing industrial labor, particularly working in the shipyards. She then discusses the experience of white and black women working in the shipyards, and their experiences working alongside men. She then moves on to discuss Eva Eldridge, who Simmons knew, and Eva's experience working in the shipyards. 
+- summary: Simmons begins her discussion of women's labor in the shipyards with the mention of Rosie the Riveter, both the original poster and the version created by Norman Rockwell. Simmons then moves on to discuss the viewpoint that many people, men in particular, around Oregon had of women doing industrial labor, particularly working in the shipyards, and how these ideals influenced newspapers and propaganda posters, such as both of these versions of Rosie the Riveter. She then discusses the experience of white and black women working in the shipyards, and their experiences working alongside men. She then moves on to discuss Eva Eldridge, who Simmons knew, and Eva's experience working in the shipyards. 
 
 - potential use for project: Something that Simmons mentioned in the article was in regards to a childcare facility built by Kaiser to take care of the children of the women who were working in his shipyards. They were absent more often than men because of childcare, so Kaiser built a childcare center which I would like to talk about in my project. I think childcare was, and continues to be, a huge barrier for women's ability to work. 
+- indication of general utility: 
 
 ---
 # week 6
