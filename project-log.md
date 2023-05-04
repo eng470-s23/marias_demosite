@@ -150,9 +150,11 @@ https://www.jstor.org/stable/10.5403/oregonhistq.113.3.0505?searchText=women+lab
 - potential use for project: For my project, I have begun to move more in the direction of women's industrial labor during World War 2 and how it impacted the labor movement in Oregon. I think I will use this source to help aid my description of the labor movement during the post war period, the ideology and views of white women during this period, and use it to provide background and context for other sources.
 
 ### source 2 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Amy E. Platt. “‘Go into the Yard as a Worker, Not as a Woman’: Oregon Women During World War II, a Digital Exhibit on the Oregon History Project.” Oregon Historical Quarterly, vol. 116, no. 2, 2015, pp. 234–48. JSTOR, https://doi.org/10.5403/oregonhistq.116.2.0234. Accessed 20 Apr. 2023.
+
+- summary: Platt's writing details the experiences and specifics of women who entered different areas of the workforce, especially  related to war-production. She uses numbers and percentages to provide a picture of the workforce in Oregon. She goes into post war conditions in Oregon for women as men came back from war, and Platt mentions more in depth the post war experience of women of color in Oregon - particularly Black and Japanese American women. She then gives pages to a few different women who worked during the war and goes in depth about what they did and their experience. In the midst of these individual shoutouts, she provides a page of information about Indigenous women in Oregon who worked in the shipyards.
+
+- potential use for project: I think because Platt uses some statistics in this article, particularly in regards to numbers of women working in industrial fields in Oregon and the numbers of women in the work force during this period - I would like to use those specifics in my project. Platt also wrote a profile of a female welder who worked in the shipyards, and wrote about Indiegnous women working in the shipyards, and I would like to use the information from both of these pages in my project (not sure how yet). 
 
 ### source 3 annotation
 - citation: 
