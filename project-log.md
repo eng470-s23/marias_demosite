@@ -157,9 +157,11 @@ https://www.jstor.org/stable/10.5403/oregonhistq.113.3.0505?searchText=women+lab
 - potential use for project: I think because Platt uses some statistics in this article, particularly in regards to numbers of women working in industrial fields in Oregon and the numbers of women in the work force during this period - I would like to use those specifics in my project. Platt also wrote a profile of a female welder who worked in the shipyards, and wrote about Indiegnous women working in the shipyards, and I would like to use the information from both of these pages in my project (not sure how yet). I really like that Platt provided information about women of color and their experiences and I would also like to do the same. 
 
 ### source 3 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Diane Simmons. “Rejection, Reception, and Rejection Again: Women in Oregon’s World War II Shipyards.” Oregon Historical Quarterly, vol. 119, no. 1, 2018, pp. 96–119. JSTOR, https://doi.org/10.5403/oregonhistq.119.1.0096. Accessed 27 Apr. 2023.
+
+- summary: Simmons begins her discussion of women's labor in the shipyards with the mention of Rosie the Riveter, both the original poster and the version created by Norman Rockwell. Simmons then moves on to discuss the viewpoint that many people, men in particular, around Oregon had of women doing industrial labor, particularly working in the shipyards. She then discusses the experience of white and black women working in the shipyards, and their experiences working alongside men. She then moves on to discuss Eva Eldridge, who Simmons knew, and Eva's experience working in the shipyards. 
+
+- potential use for project: Something that Simmons mentioned in the article was in regards to a childcare facility built by Kaiser to take care of the children of the women who were working in his shipyards. They were absent more often than men because of childcare, so Kaiser built a childcare center which I would like to talk about in my project. I think childcare was, and continues to be, a huge barrier for women's ability to work. 
 
 ---
 # week 6
