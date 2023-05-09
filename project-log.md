@@ -83,6 +83,7 @@ Source 7:
 - How did the experiences of different groups of women workingf in shipyards in Portland during WW2 change based on their race/age? (indigenous women, black women, elderly women) 
 
 ## research question
+- How did the experiences of different groups of women workingf in shipyards in Portland during WW2 change based on their race/age? (indigenous women, black women, elderly women) 
 
 ## annotated bibliography
 
