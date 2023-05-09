@@ -117,7 +117,7 @@ Source 7:
 ---
 # week 6
 ## notes
-- notes go here
+- based on the Orgeon historical newspapers, how did attitudes towards women's labor in Oregon change over time, as revealed in newspapers?
 
 ## annotated bibliography, continued
 
