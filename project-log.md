@@ -84,6 +84,7 @@ Source 7:
 
 ## research question
 - How did the experiences of different groups of women workingf in shipyards in Portland during WW2 change based on their race/age? (indigenous women, black women, elderly women) 
+- changing directions again: How do Oregon Historical newspapers reflect changing attitudes towards womens labor in Oregon from 1910-1970?
 
 ## annotated bibliography
 
