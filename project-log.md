@@ -148,6 +148,7 @@ Source 7:
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
 - respond here 
+- how do newspapers reflect popular attitudes, and speak to the general public (make others feel the same way)?
 
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
