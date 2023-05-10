@@ -123,9 +123,11 @@ Source 7:
 ## annotated bibliography, continued
 
 ### source 4 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Polishuk, Sandy. *Sticking to the Union: An Oral History of the Life and Times of Julia Ruuttila.* Palgrave Macmillan, 2003.  
+
+- summary: Polishuk's book is a biography of the life of lifelong labor activist Julia Ruuttila, and her work in Oregon as a labor activist. It discusses her life growing up in Eugene with a father in the IWW, her life after moving out of her parents house, her relationships, and most importantly: her work. As this book was written after Polishuk interviewed Julia, the people around her, and researched into her life, there are a few inconsistencies within the story, but mainly surrounding personal details. Julia was extremely dedicated to her work, and this book is a wonderful way to learn more about what she has done for labor rights in Oregon.
+
+- potential use for project: Although originally I wanted to make a subsection of my project about Julia and use this book to inform that section, I have since switched gears. I think that I will use this book to inform my project detailing attitudes towards working women. The involevement of women in unions, and in the work force changed over time and is reflected in this book and I would like to use this book as background information. 
 
 ### source 5 annotation
 - citation: 
