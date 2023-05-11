@@ -142,9 +142,11 @@ Source 7:
 - potential use for project: I think that this source is beneficial to provide background information, but much of the information from this source can be found in other sources. I think one of the most useful things about this source is that it serves as a portal of sorts; many other sources about similar topics can be found at the bottom of this page and are linked, with small passages to show the reader what those sources are about. 
 
 ### source 7 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: source #7: Oliver, Gordon. “Kaiser Shipyards.” *The Oregon Encyclopedia,* Oregon Historical Society , www.oregonencyclopedia.org/articles/kaiser_shipyards/#.ZEwxeezMLs1.
+
+- summary: This page written by Gordon provides insight into the shipyards themselves, including their functions, numbers of employees, and different information about production. It also helps the reader understand the social and economic impact of the shipyards on Portland during the war. One of the ways it does this is to provide statistics about women, and people of color moving to Portland to work in shipyards and provides numerical data about this. 
+
+- potential use for project: I think that this is useful because it helped me to understand just how many people moved to Portland for work. There was a desperate need for industrial workers in Portland during the war, and this didn't allow shipyards and other places of work to be picky about who they hired. I think that at least for a few years, for the duration of the war, what newspapers have to say about working women will be different from before and after the war. 
 
 ## environmental scan
 *The environmental scan situates your project within the existing scholarly research and articulates its contribution. Answer each of the following questions in about one well-developed paragraph. You may use bulleted lists to organize your thoughts, but please write in complete sentences.*
