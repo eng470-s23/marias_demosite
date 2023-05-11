@@ -135,9 +135,11 @@ Source 7:
 - potential use for project: 
 
 ### source 6 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: source #6: Oregon History Project. “Women in the Shipyards.” *Oregon, WWII, Women, and Work,* Oregon Historical Society, www.oregonhistoryproject.org/women-in-the-shipyards/.
+
+- summary: This source provides background information about the necessity of female workers during World War 2, and includes some insight into attitudes towards working women during the war. It also includes a small glimpse into postwar work life for women. This source is not very long, but also provides a little bit of information about women joining unions during the war because they anticapted layoffs following the end of the war as men wanted to return to their jobs. 
+ 
+- potential use for project: I think that this source is beneficial to provide background information, but much of the information from this source can be found in other sources. I think one of the most useful things about this source is that it serves as a portal of sorts; many other sources about similar topics can be found at the bottom of this page and are linked, with small passages to show the reader what those sources are about. 
 
 ### source 7 annotation
 - citation: 
