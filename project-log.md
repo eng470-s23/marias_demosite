@@ -155,22 +155,21 @@ Source 7:
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
 - respond here 
-- how do newspapers reflect popular attitudes, and speak to the general public (make others feel the same way)?
+- For this project I will analyze historic Oregon newspapers as a way to reveal changing ideals surrounding women's participation in the work force. I originally was interested in women's labor activism and the history of unions in Oregon, but struggled finding a gap in the research for my project. I am really interested in the history of Oregon, and I like learning about women's participation in history. I will analyze historic newspapers as a way to reveal changing attitudes, and I would like to present this analysis and create a digital exhibit with note worthy papers. My project is unqiue because I will be analyzing newspapers as a source that demonstrate popular opinions. I think there are projects that discuss changing ideals about women's participation in the labor force, but none analyze historic newspapers. I think this project will not only answer my original question about how changing ideals are reflected in newspapers, but I hope to also answer questions about how newspapers reflect popular attitudes, speak to the general public, and potentially influence the opinions of others. 
 
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
 
-- respond here 
+- The tools that will be used for this project are "textEdit" and "Voyant". TextEdit is a program one can download onto their computer, and can be used for many different types of projects. I will use this program to clean up the newspapers I am looking at, by fixing any mistakes and removing irrelevant sections, and storing and formatting these documents in an organized way that will make it easy to upload them to Voyant. I will use Voyant to analyze these texts and reveal patterns, as well as changing ideals. I think that these are the best technologies for this project because both are free and capable of doing what I need for this project, and are compatible with my computer. I believe that paying for any program that does these same functions is unneccessary and a waste of money, as both of these programs do what I need them to.
 
 ### stakeholders / audiences
-*For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
+*Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
-- respond here 
+- This project is intented for academics, such as both professors and students, specifically those interested in history, women and gender studies, or labor history. The majority of my sources are available through the UO, so the UO is also part of my intended audience: I would like to show the UO how people are using the resources that they have made available, and encourage them to continue providing these sources and other resources that may otherwise be difficult to access.  
 
 ### dependencies and resources
-*What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
 
-- respond here 
+- My entire project depends on the newspapers accessed through the UO library, and many of these sources are only available through the UO. These newspapers have been uploaded to "Oregon Historic Newspapers" which is a site created by the UO. I will use the program "textEdit", which was free, but I had to download onto my computer in order to use. To sort through and upload these texts, I will require at least 6 hours, most likely over the course of a few days, and I will need enough data on my computer to store and download all of the newspapers that I will use in this project. I will use Voyant to analyse these newspapers, which is a free and available website that anyone can use. 
 
 ---
 # week 7
