@@ -51,7 +51,7 @@ Source 6:
 Source 7: 
   go to Oregon Encyclopedia -> search "shipyard" find 'Kaiser Shipyards'
   
-Source 8: These are the newspapers I'm using for my project
+Source 8: (these are the newspapers I'm using for my project): 
   go to the UO library search homepage -> click on "research support" and go to research guides -> journalism & communication -> finding newspaper resources -> stay on newspaper resources, scroll down, click on "Using the Historic Oregon Newspapers Website" -> click on "Historic Oregon Newspapers" -> search "women labor" and filter by year :)
 
 ## bibliography
