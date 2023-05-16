@@ -130,9 +130,11 @@ Source 7:
 - potential use for project: Although originally I wanted to make a subsection of my project about Julia and use this book to inform that section, I have since switched gears. I think that I will use this book to inform my project detailing attitudes towards working women. The involevement of women in unions, and in the work force changed over time and is reflected in this book and I would like to use this book as background information. 
 
 ### source 5 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Northwest Women's History Project . “Northwest Women's History Project Records and Interviews.” 2021, digitalcollections.ohs.org/coll-883-northwest-womens-history-project-records-and-interviews. Accessed 28 Apr. 2023.  
+
+- summary: I listened to the oral interviews of three different women who had worked different jobs in Portland at the shipyards during WW2, the first was Alice Erickson, the second was Dorothy Anderson, and the last was Velma Lake. Alice worked as a driller, Dorothy did both inventory work and worked as an electrician's apprentice, and Velma worked as a scaler (assisted painters), a painter, and a welder. All of these women had different stories to tell about their experience in the shipyards and with the unions, and what they did after the war. One of the things that I noted from their stories was that they needed to join unions to work in the shipyards, but many of the unions were reluctant to take on women because they were going to rid of them after the war, but took them on out of necessity. Another important point was that these women doubted themselves prior to working in the yards, but the yards gave them confidence. 
+ 
+- potential use for project: I think that from these interviews, I can tell the sort of jobs women were doing before and after the war (office work or secretarial work mostly), and even though they had experience working in industrial fields, they never would have hoped to get a job doing those things following the war. I think this provides context for me to see how women's work in trades was treated, and the roles that women were limited to working in. I think that these interviews also helped me to see how these women viewed themselves and their roles: for example, them having doubts about their capabilities prior to working in the yards, and them knowing that they'd be let go after the war. 
 
 ### source 6 annotation
 - citation: source #6: Oregon History Project. “Women in the Shipyards.” *Oregon, WWII, Women, and Work,* Oregon Historical Society, www.oregonhistoryproject.org/women-in-the-shipyards/.
@@ -154,7 +156,6 @@ Source 7:
 ### contribution
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
-- respond here 
 - For this project I will analyze historic Oregon newspapers as a way to reveal changing ideals surrounding women's participation in the work force. I originally was interested in women's labor activism and the history of unions in Oregon, but struggled finding a gap in the research for my project. I am really interested in the history of Oregon, and I like learning about women's participation in history. I will analyze historic newspapers as a way to reveal changing attitudes, and I would like to present this analysis and create a digital exhibit with note worthy papers. My project is unqiue because I will be analyzing newspapers as a source that demonstrate popular opinions. I think there are projects that discuss changing ideals about women's participation in the labor force, but none analyze historic newspapers. I think this project will not only answer my original question about how changing ideals are reflected in newspapers, but I hope to also answer questions about how newspapers reflect popular attitudes, speak to the general public, and potentially influence the opinions of others. 
 
 ### methods
@@ -165,7 +166,7 @@ Source 7:
 ### stakeholders / audiences
 *Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
-- This project is intented for academics, such as both professors and students, specifically those interested in history, women and gender studies, or labor history. The majority of my sources are available through the UO, so the UO is also part of my intended audience: I would like to show the UO how people are using the resources that they have made available, and encourage them to continue providing these sources and other resources that may otherwise be difficult to access.  
+- This project is intented for academics, such as both professors and students, specifically those interested in history, women and gender studies, or labor history. The majority of my sources are available through the UO, so the UO is also part of my intended audience: I would like to show the UO how people are using the resources that they have made available, and encourage them to continue providing these sources and other resources that may otherwise be difficult to access. I think in order to reach this audience it would be beneficial if I posted about it publicly for others to see. 
 
 ### dependencies and resources
 
