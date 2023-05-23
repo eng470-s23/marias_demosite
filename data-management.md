@@ -16,12 +16,12 @@ This file is a collection of newspaper sections about women's participance in th
 # organization and storage
 *Describe your [file naming convention and version control practices](https://researchguides.uoregon.edu/data-management/filenaming). Describe [storage methods and backup procedures](https://researchguides.uoregon.edu/data-management/backup) for the data, including physical and cyber resources and facilities (hard-disk space, backup server, repository). Describe how you will take into consideration privacy, security, intellectual property, and other rights.*
 
-- I am using "nameofnewspaper.year.month.date_sectiontitle" for my files. My files will be saved in a folder on my desktop, as well as in text edit, and in google drive. I created a folder in google drive where I will upload my files at the end of the day each time I work on them. 
+- I am using "year.month.date_nameofnewspaper_sectiontitle" for my files. My files will be saved in a folder on my desktop, as well as in text edit, and in google drive. I created a folder in google drive where I will upload my files at the end of the day each time I work on them. 
 
 # sharing, publication, and archiving
 *Describe what you will do to [provide others access to the data](https://researchguides.uoregon.edu/data-management/archiving). Identify any restrictions on who may access the data and under what conditions and a timeline for providing access. Also describe your plans for preserving data, outlining any changes in access anticipated during the preservation timeline, and documenting the resources and capabilities (e.g., equipment, connections, systems, expertise) needed to meet the preservation goals.*
 
-- All of my data will be ulpoaded to Voyant, and analyzed, but I might make my data accessible through GitHUb so that others can look at the original texts that I have been working with. 
+- All of my data will be uploaded to Voyant, and analyzed, but I might make my data accessible through GitHUb so that others can look at the original texts that I have been working with. 
 
 # accessibility
 *Describe your plans for ensuring that your data and project outputs are accessible for users with disabilities. Basic accessibility features include the use of alternative text for images; captions and transcripts for videos; large, easy-to-read fonts; high-contrast color schemes; text content broken up logically with section headers and lists; and links embedded [in context](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html) rather than on phrases like [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ). Be specific about how you will implement accessibility features that are relevant to your data.*
