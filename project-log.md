@@ -131,12 +131,16 @@ Source 8: (these are the newspapers I'm using for my project):
 
 - potential use for project: Although originally I wanted to make a subsection of my project about Julia and use this book to inform that section, I have since switched gears. I think that I will use this book to inform my project detailing attitudes towards working women. The involevement of women in unions, and in the work force changed over time and is reflected in this book and I would like to use this book as background information. 
 
+- indication of general utility:
+
 ### source 5 annotation
 - citation: Northwest Women's History Project . “Northwest Women's History Project Records and Interviews.” 2021, digitalcollections.ohs.org/coll-883-northwest-womens-history-project-records-and-interviews. Accessed 28 Apr. 2023.  
 
 - summary: I listened to the oral interviews of three different women who had worked different jobs in Portland at the shipyards during WW2, the first was Alice Erickson, the second was Dorothy Anderson, and the last was Velma Lake. Alice worked as a driller, Dorothy did both inventory work and worked as an electrician's apprentice, and Velma worked as a scaler (assisted painters), a painter, and a welder. All of these women had different stories to tell about their experience in the shipyards and with the unions, and what they did after the war. One of the things that I noted from their stories was that they needed to join unions to work in the shipyards, but many of the unions were reluctant to take on women because they were going to rid of them after the war, but took them on out of necessity. Another important point was that these women doubted themselves prior to working in the yards, but the yards gave them confidence. 
  
 - potential use for project: I think that from these interviews, I can tell the sort of jobs women were doing before and after the war (office work or secretarial work mostly), and even though they had experience working in industrial fields, they never would have hoped to get a job doing those things following the war. I think this provides context for me to see how women's work in trades was treated, and the roles that women were limited to working in. I think that these interviews also helped me to see how these women viewed themselves and their roles: for example, them having doubts about their capabilities prior to working in the yards, and them knowing that they'd be let go after the war. 
+
+- indication of general utility:
 
 ### source 6 annotation
 - citation: source #6: Oregon History Project. “Women in the Shipyards.” *Oregon, WWII, Women, and Work,* Oregon Historical Society, www.oregonhistoryproject.org/women-in-the-shipyards/.
@@ -145,12 +149,16 @@ Source 8: (these are the newspapers I'm using for my project):
  
 - potential use for project: I think that this source is beneficial to provide background information, but much of the information from this source can be found in other sources. I think one of the most useful things about this source is that it serves as a portal of sorts; many other sources about similar topics can be found at the bottom of this page and are linked, with small passages to show the reader what those sources are about. 
 
+- indication of general utility: 
+
 ### source 7 annotation
 - citation: source #7: Oliver, Gordon. “Kaiser Shipyards.” *The Oregon Encyclopedia,* Oregon Historical Society , www.oregonencyclopedia.org/articles/kaiser_shipyards/#.ZEwxeezMLs1.
 
 - summary: This page written by Gordon provides insight into the shipyards themselves, including their functions, numbers of employees, and different information about production. It also helps the reader understand the social and economic impact of the shipyards on Portland during the war. One of the ways it does this is to provide statistics about women, and people of color moving to Portland to work in shipyards and provides numerical data about this. 
 
 - potential use for project: I think that this is useful because it helped me to understand just how many people moved to Portland for work. There was a desperate need for industrial workers in Portland during the war, and this didn't allow shipyards and other places of work to be picky about who they hired. I think that at least for a few years, for the duration of the war, what newspapers have to say about working women will be different from before and after the war. 
+
+- indication of general utility:
 
 ## environmental scan
 *The environmental scan situates your project within the existing scholarly research and articulates its contribution. Answer each of the following questions in about one well-developed paragraph. You may use bulleted lists to organize your thoughts, but please write in complete sentences.*
