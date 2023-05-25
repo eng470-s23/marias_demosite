@@ -185,6 +185,8 @@ Source 8: (these are the newspapers I'm using for my project):
 - currently text mining and transcribing news papers, as these text files will be inserted into Voyant, I thought it would make sense to use current and use one version of each word, changes made as follows: 
     - per cent -> percent
     - tokether -> together  
+    - statees -> states
+    - thru -> through
 
 ---
 # week 9
