@@ -195,6 +195,7 @@ Source 8: (these are the newspapers I'm using for my project):
     - tokether -> together  
     - statees -> states
     - thru -> through
+    - middle west -> midwest
 ---
 # week 9
 ## notes
