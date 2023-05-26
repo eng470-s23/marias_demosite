@@ -196,6 +196,7 @@ Source 8: (these are the newspapers I'm using for my project):
     - statees -> states
     - thru -> through
     - middle west -> midwest
+    - asociation -> association
 ---
 # week 9
 ## notes
