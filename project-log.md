@@ -197,6 +197,7 @@ Source 8: (these are the newspapers I'm using for my project):
     - thru -> through
     - middle west -> midwest
     - asociation -> association
+    - aeroplane(s) -> airplane(s)
 ---
 # week 9
 ## notes
