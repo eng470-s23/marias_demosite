@@ -200,6 +200,7 @@ Source 8: (these are the newspapers I'm using for my project):
     - aeroplane(s) -> airplane(s)
     - till -> until
     - ocupation -> occupation
+    - criticises -> criticizes 
 ---
 # week 9
 ## notes
