@@ -202,6 +202,8 @@ Source 8: (these are the newspapers I'm using for my project):
     - ocupation -> occupation
     - criticises -> criticizes 
     - seceretary -> secretary 
+    - them selves -> themselves
+    - well being -> wellbeing
 ---
 # week 9
 ## notes
