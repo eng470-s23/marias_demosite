@@ -201,6 +201,7 @@ Source 8: (these are the newspapers I'm using for my project):
     - till -> until
     - ocupation -> occupation
     - criticises -> criticizes 
+    - seceretary -> secretary 
 ---
 # week 9
 ## notes
