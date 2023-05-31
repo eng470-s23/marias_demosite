@@ -203,7 +203,7 @@ Source 8: (these are the newspapers I'm using for my project):
     - criticises -> criticizes 
     - seceretary -> secretary 
     - them selves -> themselves
-    - well being -> wellbeing
+    - well being -> well-being
 ---
 # week 9
 ## notes
