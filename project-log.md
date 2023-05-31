@@ -199,6 +199,7 @@ Source 8: (these are the newspapers I'm using for my project):
     - asociation -> association
     - aeroplane(s) -> airplane(s)
     - till -> until
+    - ocupation -> occupation
 ---
 # week 9
 ## notes
