@@ -204,6 +204,8 @@ Source 8: (these are the newspapers I'm using for my project):
     - seceretary -> secretary 
     - them selves -> themselves
     - well being -> well-being
+    - manikin -> mannequin
+    - calory -> calorie
 ---
 # week 9
 ## notes
