@@ -206,6 +206,7 @@ Source 8: (these are the newspapers I'm using for my project):
     - well being -> well-being
     - manikin -> mannequin
     - calory -> calorie
+    - decripit -> decrepit
 ---
 # week 9
 ## notes
