@@ -2,7 +2,9 @@ Changing Attitudes Towards Women’s Labor: How Newspapers Reflect Popular Ideol
 
 example to delete: 
 [project log](/project-log.md)
+
 [presentation](/DH-Symposium---Maria-Shimota.pdf)
+
 [data management plan](/data-management.md)
 
 If you're running across this site, it's part of a course at the University of Oregon. [Here's the syllabus](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
