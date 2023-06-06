@@ -3,7 +3,7 @@ Changing Attitudes Towards Women’s Labor: How Newspapers Reflect Popular Ideol
 example to delete: 
 [project log](/project-log.md)
 
-[data](/data]
+[data](/tree/main/data]
 
 [data management plan](/data-management.md)
 
