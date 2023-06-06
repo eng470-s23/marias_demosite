@@ -5,7 +5,7 @@ plugins:
 
 # Setup
 title:  "Maria's Demo Site"             
-tagline:             
+tagline: Changing Attitudes Towards Women’s Labor: How Newspapers Reflect Popular Ideologies            
 description:         
 url:     http://eng470-s23.github.io          
 baseurl:   /marias_demosite/            
