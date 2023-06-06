@@ -5,7 +5,7 @@ In digital humanities, it is common for project teams to publish a report of fun
 ---
 
 # White Paper Template
-[project summary](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-summary) | [project origins and goals](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-origins-and-goals)
+[project summary](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-summary) | [project origins and goals](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-origins-and-goals) | [project activation](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-activities) | [project outcomes](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-outcomes) | [project continuation and long-term impact](/project-continuation-and-long-term-impact)
 
 
 
@@ -17,7 +17,8 @@ Be sure to include access info for your project (or embedded content). - 1 parag
 
 It's very likely that elements of your pitch and/or environmental scan will be revised and incorporated here. 
 
-## Project Activities, Team, and Participants
+## Project Activities
+team/participnats
 
 ## Project Outcomes
 
