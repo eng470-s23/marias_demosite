@@ -15,12 +15,12 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 
 ## Project-level Basic Information - Introduction 
 
-1. Project Name
-2. Dataset file name(s) and extension(s)
-3. Project description/abstract/keywords
-4. Authors and collaborators, including ORCID IDs and contact information
-5. Dates of Data Collection (YYYYMMDD format)
-6. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
+1. Project Name:
+2. Dataset file name(s) and extension(s):
+3. Project description/abstract/keywords:
+4. Authors and collaborators, including ORCID IDs and contact information:
+5. Dates of Data Collection (YYYYMMDD format):
+6. Date of file creation and updates, and nature of those updates (YYYYMMDD format):
 
 ## Data Access & Sharing
 1. [Licenses](https://choosealicense.com/) for the data and restrictions placed on the data
