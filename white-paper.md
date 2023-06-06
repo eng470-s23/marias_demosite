@@ -9,9 +9,9 @@ In digital humanities, it is common for project teams to publish a report of fun
 
 
 
-## Project Summary/Abstract (1 paragraph) 
+## Project Summary 
 
-Be sure to include access info for your project (or embedded content).
+Be sure to include access info for your project (or embedded content). - 1 paragraph
 
 ## Project Origins and Goals
 
