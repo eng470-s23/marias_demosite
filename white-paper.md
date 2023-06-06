@@ -5,8 +5,9 @@ In digital humanities, it is common for project teams to publish a report of fun
 ---
 
 # White Paper Template
+[project summary](https://github.com/eng470-s23/marias_demosite/blob/white-paper.md/#projectsummary)
+schedule = https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#schedule
 
-Not a bad idea to include a table of contents here with relative links to your section headers.
 
 ## Project Summary/Abstract (1 paragraph) 
 
