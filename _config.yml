@@ -1,10 +1,11 @@
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme
+
 
 # Setup
-title:  "ENG 470 S23 Demo Site"             
+title:  "Maria's Demo Site"             
 tagline:             
 description:         
 url:     http://eng470-s23.github.io          
-baseurl:   /demo-site/            
+baseurl:   /marias_demosite/            
