@@ -5,7 +5,7 @@ In digital humanities, it is common for project teams to publish a report of fun
 ---
 
 # White Paper Template
-[project summary](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-summary)
+[project summary](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-summary) | [project origins and goals](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-origins-and-goals)
 
 
 
