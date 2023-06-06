@@ -15,10 +15,10 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 
 ## Project-level Basic Information - Introduction 
 
-1. Project Name:
+1. Project Name: Changing Attitudes Towards Women’s Labor: How Newspapers Reflect Popular Ideologies
 2. Dataset file name(s) and extension(s):
 3. Project description/abstract/keywords:
-4. Authors and collaborators, including ORCID IDs and contact information:
+4. Authors and collaborators, including ORCID IDs and contact information: Maria Shimota 
 5. Dates of Data Collection (YYYYMMDD format):
 6. Date of file creation and updates, and nature of those updates (YYYYMMDD format):
 
