@@ -5,6 +5,8 @@ example to delete:
 
 [data](https://github.com/eng470-s23/marias_demosite/tree/main/data)
 
+[bibliography for data](/DH-Capstone-Sources.pdf)
+
 [data management plan](/data-management.md)
 
 If you're running across this site, it's part of a course at the University of Oregon. [Here's the syllabus](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
