@@ -1,23 +1,8 @@
-# What's a White Paper?
-
-In digital humanities, it is common for project teams to publish a report of funded development activities after a grant cycle is completed. The following template is taken from the [instructions provided by the National Endowment for the Humanities](https://www.neh.gov/how-write-successful-white-paper-tips-odh) to recipients of Digital Humanities Advancement Grants.
-
----
-
-# White Paper Template
-[project summary](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-summary)   |   [project origins and goals](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-origins-and-goals)   |   [project activation](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-activities)   |   [project outcomes](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-outcomes)   |   [project continuation and long-term impact](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-continuation-and-long-term-impact)   |   [appendix 1: bibliography](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#appendix-1-bibliography)
-
-
-
 ## Project Summary 
 
-Using this project, I wanted to continue to learn about labor history in Oregon, as it is an area I haven't studied as much as some others, and I wanted to use primary sources as true snapshots in this project which would be revealing about the period in which they were written, and would change based on historical events that I was already familiar with. I felt that using newspapers to do this would be fitting, and as newspapers become less prevalent with the advent of technology, I thought it would be interesting to see them immortalized and compared side by side using my DH Capstone project to do so. The newspapers I analyzed in this project not only reflect the way that attitudes toward's women's participation in the work force changed, but they also reflect both racial and class dynamics, industrialization, and the influence of different historical events on attitudes.
+Using this project, I wanted to continue to learn about labor history in Oregon, as it is an area I haven't studied as much as some others, and I wanted to use primary sources as true snapshots in this project which would be revealing about the period in which they were written, and would change based on historical events that I was already familiar with. I felt that using newspapers to do this would be fitting, and as newspapers have become less prevalent with the advent of technology, I thought it would be interesting to see them immortalized and compared side by side using [my DH Capstone project](https://eng470-s23.github.io/marias_demosite/) to do so. The question that guided my research had to do with how Oregon Historical newspapers from around the state, including articles aboutcities around the world, reflect changing attitudes towards women’s participation in the workforce in Oregon from 1910-1975. I chose this period as I felt it was a period with an overarching theme of change, and encapsulated many different historical events which influenced labor patterns. The newspapers I analyzed in this project not only reflect the way that attitudes toward's women's participation in the work force changed, but they also reflect both racial and class dynamics, industrialization, and the influence of different historical events on attitudes. 
 
-Be sure to include access info for your project (or embedded content). - 1 paragraph
-
-Begin with a brief 1-2 paragraph introduction that summarizes your project’s goals, outcomes, and primary collaborators. Include links to the project or institute website and any other key content available online.
-
-You may wish to include a Table of Contents.
+[project summary](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-summary)   |   [project origins and goals](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-origins-and-goals)   |   [project activation](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-activities)   |   [project outcomes](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-outcomes)   |   [project continuation and long-term impact](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#project-continuation-and-long-term-impact)   |   [appendix 1: bibliography](https://github.com/eng470-s23/marias_demosite/blob/main/white-paper.md#appendix-1-bibliography)
 
 ## Project Origins and Goals
 
