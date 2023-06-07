@@ -21,7 +21,7 @@ You may wish to include a Table of Contents.
 
 ## Project Origins and Goals
 
-This winter, I took History of the Pacific North West with Professor Steven Beda, and one of the books we read for this course was Sandy Polishuk's book *Sticking to the Union: An Oral History of the Life and Times of Julia Ruuttila*. Julia Ruutila was a labor activist in Oregon, and this book ended up being my inspiration for this project. I wanted to research labor histories in Oregon, but struggled to find a gap in existing research. Eventually while pursuing a different idea for this project, I read "Rejection, Reception, and Rejection Again: Women in Oregon’s World War II Shipyards" by Diane Simmons. The author was preparing to interview a family friend about her work in Portland's Shipyards during WW2 and looked at different newspapers that had been released around that time to get an idea for the way that people felt about women working in the Shipyards. 
+This winter, I took History of the Pacific North West with Professor Steven Beda, and one of the books we read for this course was Sandy Polishuk's book *Sticking to the Union: An Oral History of the Life and Times of Julia Ruuttila*. Julia Ruutila was a labor activist in Oregon, and this book ended up being my inspiration for this project. I wanted to research labor histories in Oregon, but struggled to find a gap in existing research. Eventually while pursuing a different idea for this project, I read "Rejection, Reception, and Rejection Again: Women in Oregon’s World War II Shipyards" by Diane Simmons. The author was preparing to interview a family friend about her work in Portland's Shipyards during WW2 and looked at different newspapers that had been released around that time to get an idea for the way that people felt about women working in the Shipyards. After reading this article, I thought that it would be really interesting to a larger collection of texts occurring over a period of time to show how attitudes toward's women's participation in the work force, and how the types of work they participated in changed over time. In doing so, you can also see changes in  
 
 It's very likely that elements of your pitch and/or environmental scan will be revised and incorporated here.
 The primary purpose of this section is to introduce readers to your project, describe how it came to be, and summarize its impact on the field.
@@ -36,6 +36,8 @@ What past work did your project or institute build on?
 ## Project Activities
 team/participnats
 The primary purpose of this section is to help readers understand how you did your project. This is particularly helpful for project managers looking for insight into project design. It’s also an opportunity to give credit to project participants.
+
+
 
 Guiding questions:
 
