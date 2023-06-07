@@ -68,6 +68,8 @@ Where should readers look for more information about your project or institute (
 ## Project Continuation and Long-Term Impact
 The primary purpose of this section is to help readers think about the future of this work.
 
+I am graduating in just a few weeks and will be leaving the future of this project to the wonderful Mattie Burkert at the University of Oregon! I think that the future of this project could expand to include different key words searched, more years included, or including another state to reveal patterns about the PNW, or Washington and California, to include patterns about the West Coast, or even a state like New York and you could compare different states to see if they reflect similar patterns or not. I think that there are a lot of different directions that this project could go in in the future, all of which would be really interesting.
+
 Guiding questions:
 
 Will you continue working on this project? Why or why not?
