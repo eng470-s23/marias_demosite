@@ -37,7 +37,7 @@ What past work did your project or institute build on?
 team/participnats
 The primary purpose of this section is to help readers understand how you did your project. This is particularly helpful for project managers looking for insight into project design. It’s also an opportunity to give credit to project participants.
 
-
+[data](https://github.com/eng470-s23/marias_demosite/tree/main/data) as well as the sources 
 
 Guiding questions:
 
