@@ -11,6 +11,8 @@ In digital humanities, it is common for project teams to publish a report of fun
 
 ## Project Summary 
 
+This winter, I took History of the Pacific North West with Professor Steven Beda, and one of the books we read for this course was Sandy Polishuk's book *Sticking to the Union: An Oral History of the Life and Times of Julia Ruuttila*. Julia Ruutila was a labor activist in Oregon, and this book ended up being my inspiration for this project.
+
 Be sure to include access info for your project (or embedded content). - 1 paragraph
 
 ## Project Origins and Goals
