@@ -34,10 +34,10 @@ What fields of study did your project or institute engage in?
 What past work did your project or institute build on?
 
 ## Project Activities
-team/participnats
-The primary purpose of this section is to help readers understand how you did your project. This is particularly helpful for project managers looking for insight into project design. It’s also an opportunity to give credit to project participants.
 
-[data](https://github.com/eng470-s23/marias_demosite/tree/main/data) as well as the [sources](/DH-Capstone-Sources.pdf)  
+This project truly began around halfway through this term when I finally found out what I wanted to do for this project. I started reading a few different sources as background information, mostly just to help provide some more information about the papers that I would eventually start processing. As a history major, I already had an idea of different events that I would see in the papers I analyzed, but having a bit of extra information never hurts. We worked for class on different assignments all term that would build into this project, and I finally began processing papers a bit later than I should've but it was around the end of Week 7. I searched "women labor" in the Historic Oregon Newspapers site, and downloaded papers started in 1910 as plain text files and went through the original scans of these text files and edited the parts that were inaccurate, and removed irrelevent sections. 
+
+I removed the extra spacing that created columns, and saved them into a file with the naming convention: "year.month.day_newspapertitle_articletitle", an example: "1918.10.13_thesundayoregonian_wartimewomenfindmuchworktodo.txt". I uploaded these files into a [folder](https://github.com/eng470-s23/marias_demosite/tree/main/data) on Github. During this process, I kept track of the source [citations](/DH-Capstone-Sources.pdf) for the newspapers in a spreadsheet in Excel, and posted them to Github. During week 9, we made [presentations](/presentation.pdf) about our projects. I uploaded the data collected from the newspapers as a corpus to Voyant, 
 
 Guiding questions:
 
