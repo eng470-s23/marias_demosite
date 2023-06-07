@@ -11,7 +11,7 @@ In digital humanities, it is common for project teams to publish a report of fun
 
 ## Project Summary 
 
-Newspapers serve as primary sources and forms of media which can be revealing about the period in which they were written.
+Newspapers serve as primary sources and forms of media which can be revealing about the period in which they were written. 
 
 Be sure to include access info for your project (or embedded content). - 1 paragraph
 
