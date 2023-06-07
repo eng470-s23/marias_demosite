@@ -11,7 +11,7 @@ In digital humanities, it is common for project teams to publish a report of fun
 
 ## Project Summary 
 
-Newspapers serve as primary sources and forms of media which can be revealing about the period in which they were written. 
+Using this project, I wanted to continue to learn about labor history in Oregon, as it is an area I haven't studied as much as some others, and I wanted to use primary sources as true snapshots in this project which would be revealing about the period in which they were written, and would change based on historical events that I was already familiar with. I felt that using newspapers to do this would be fitting, and as newspapers become less prevalent with the advent of technology, I thought it would be interesting to see them immortalized and compared side by side using my DH Capstone project to do so. The newspapers I analyzed in this project not only reflect the way that attitudes toward's women's participation in the work force changed, but they also reflect both racial and class dynamics, industrialization, and the influence of different historical events on attitudes.
 
 Be sure to include access info for your project (or embedded content). - 1 paragraph
 
