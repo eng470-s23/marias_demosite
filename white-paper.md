@@ -34,7 +34,7 @@ This project truly began around halfway through this term when I finally figured
     - calory -> calorie
     - decripit -> decrepit
 
-I then removed the extra spacing that created columns, and saved them into a file with the naming convention: "year.month.day_newspapertitle_articletitle", an example: "1918.10.13_thesundayoregonian_wartimewomenfindmuchworktodo.txt". I uploaded these files into a [folder](https://github.com/eng470-s23/marias_demosite/tree/main/data) on Github. During this process, I kept track of the source [citations](/DH-Capstone-Sources.pdf) for the newspapers in a spreadsheet in Excel, and posted them to Github. During week 9, we made [presentations](/presentation.pdf) about our projects. I uploaded the data collected from the newspapers as a corpus to Voyant, 
+I then removed the extra spacing that created columns, and saved them into a file with the naming convention: "year.month.day_newspapertitle_articletitle", an example: "1912.06.12_morningenterprise_womansworld.txt". I uploaded these files into a [folder](https://github.com/eng470-s23/marias_demosite/tree/main/data) on Github. During this process, I kept track of the source [citations](/DH-Capstone-Sources.pdf) for the newspapers in a spreadsheet in Excel, and posted them to Github. During week 9, we made [presentations](/presentation.pdf) about our projects. I uploaded the data collected from the newspapers as a corpus to Voyant, 
 
 I ran into a lot of problems throughout this project, and one of the biggest was how to use Voyant to encapsulate all of the different papers that I had seen. I looked at each and every one in detail, and it was difficult to find a way to use Voyant to truly represent each different paper without feeling like things were being left out.
 
@@ -51,7 +51,6 @@ What personal or professional outcomes came from this project? For example, do y
 Where should readers look for more information about your project or institute (include URLs, future publication plans, citations, et al)?  What about any software developed?  Is it available in a code repository?
 
 ## Project Continuation
-The primary purpose of this section is to help readers think about the future of this work.
 
 I am graduating in just a few weeks and will be leaving the future of this project to the wonderful Mattie Burkert at the University of Oregon! I think that the future of this project could expand to include different key words searched, more years included, or including another state to reveal patterns about the PNW, or Washington and California, to include patterns about the West Coast, or even a state like New York and you could compare different states to see if they reflect similar patterns or not. I think that there are a lot of different directions that this project could go in in the future, all of which would be really interesting.
 
