@@ -35,9 +35,29 @@ What past work did your project or institute build on?
 
 ## Project Activities
 
-This project truly began around halfway through this term when I finally found out what I wanted to do for this project. I started reading a few different sources as background information, mostly just to help provide some more information about the papers that I would eventually start processing. As a history major, I already had an idea of different events that I would see in the papers I analyzed, but having a bit of extra information never hurts. We worked for class on different assignments all term that would build into this project, and I finally began processing papers a bit later than I should've but it was around the end of Week 7. I searched "women labor" in the Historic Oregon Newspapers site, and downloaded papers started in 1910 as plain text files and went through the original scans of these text files and edited the parts that were inaccurate, and removed irrelevent sections. 
+This project truly began around halfway through this term when I finally found out what I wanted to do for this project. I started reading a few different sources as background information, mostly just to help provide some more information about the papers that I would eventually start processing. As a history major, I already had an idea of different events that I would see in the papers I analyzed, but having a bit of extra information never hurts. We worked for class on different assignments all term that would build into this project, and I finally began processing papers a bit later than I should've but it was around the end of Week 7. I searched "women labor" in the Historic Oregon Newspapers site, and downloaded papers started in 1910 as plain text files and went through the original scans of these text files and edited the parts that were inaccurate, and removed irrelevent sections. As I mined and transcribed these newspapers, I made edits to some of them so that when they were eventually Uploaded to Voyant, there would'nt be multiple versions of different words.
 
-I removed the extra spacing that created columns, and saved them into a file with the naming convention: "year.month.day_newspapertitle_articletitle", an example: "1918.10.13_thesundayoregonian_wartimewomenfindmuchworktodo.txt". I uploaded these files into a [folder](https://github.com/eng470-s23/marias_demosite/tree/main/data) on Github. During this process, I kept track of the source [citations](/DH-Capstone-Sources.pdf) for the newspapers in a spreadsheet in Excel, and posted them to Github. During week 9, we made [presentations](/presentation.pdf) about our projects. I uploaded the data collected from the newspapers as a corpus to Voyant, 
+- The changes I made were as follows:
+    - per cent -> percent
+    - tokether -> together
+    - statees -> states
+    - thru -> through
+    - middle west -> midwest
+    - asociation -> association
+    - aeroplane(s) -> airplane(s)
+    - till -> until
+    - ocupation -> occupation
+    - criticises -> criticizes
+    - seceretary -> secretary
+    - them selves -> themselves
+    - well being -> well-being
+    - manikin -> mannequin
+    - calory -> calorie
+    - decripit -> decrepit
+
+I then removed the extra spacing that created columns, and saved them into a file with the naming convention: "year.month.day_newspapertitle_articletitle", an example: "1918.10.13_thesundayoregonian_wartimewomenfindmuchworktodo.txt". I uploaded these files into a [folder](https://github.com/eng470-s23/marias_demosite/tree/main/data) on Github. During this process, I kept track of the source [citations](/DH-Capstone-Sources.pdf) for the newspapers in a spreadsheet in Excel, and posted them to Github. During week 9, we made [presentations](/presentation.pdf) about our projects. I uploaded the data collected from the newspapers as a corpus to Voyant, 
+
+I ran into a lot of problems throughout this project, and one of the biggest was how to use Voyant to encapsulate all of the different papers that I had seen. I looked at each and every one in detail, and it was difficult to find a way to use Voyant to truly represent each different paper without feeling like things were being left out.
 
 Guiding questions:
 
