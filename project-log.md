@@ -56,7 +56,7 @@ Source 8: (these are the newspapers I'm using for my project):
 
 ## bibliography
 
-1. source #1: Mercier, Laurie. “Breadwinning, Equity, and Solidarity: Labor Feminism in Oregon, 1945–1970.” *Oregon Historical Quarterly,* vol. 120, no. 1, 2019, pp. 6–45. JSTOR, https://doi.org/10.5403/oregonhistq.120.1.0006. Accessed 20 Apr. 2023.
+1. source #1: Mercier, Laurie. “Breadwinning, Equity, and Solidarity: Labor Feminism in Oregon, 1945–1970.” *Oregon Historical Quarterly,* vol. 120, no. 1, 2019, pp. 6–45. JSTOR, https://doi.org/10.5403/oregonhistq.120.1.0006. Accessed 20 Apr. 2023. 
 
 2. source #2: Amy E. Platt. “‘Go into the Yard as a Worker, Not as a Woman’: Oregon Women During World War II, a Digital Exhibit on the Oregon History Project.” *Oregon Historical Quarterly,* vol. 116, no. 2, 2015, pp. 234–48. JSTOR, https://doi.org/10.5403/oregonhistq.116.2.0234. Accessed 20 Apr. 2023. 
 
