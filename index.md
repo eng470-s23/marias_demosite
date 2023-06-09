@@ -39,6 +39,7 @@ During ww1, the biggest industries that required women's work were agricultural 
 <img width="466" alt="Screenshot 2023-06-08 at 10 34 40 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/444f4fef-8a98-44d3-a18d-e7206f18b5eb">
 
 Oregon was a completely different place during ww2 than it had been during ww1, due to increased industrialization, thus changing the field in which women were needed to work to reflect changing industries:
+
 <img width="462" alt="Screenshot 2023-06-08 at 10 35 52 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d4f60aab-fb40-49cd-a77b-a0241eabb56a">
 <img width="463" alt="Screenshot 2023-06-08 at 10 35 34 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/dcb9f6ed-013d-4148-82ef-d6737de59771">
 
