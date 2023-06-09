@@ -1,6 +1,6 @@
-##Changing Attitudes Towards Women’s Labor: How Newspapers Reflect Popular Ideologies
+## Changing Attitudes Towards Women’s Labor: How Newspapers Reflect Popular Ideologies
 
-###DH Capstone Project
+### DH Capstone Project
 
 You can click these different links to get an idea of my work along the way!!
 
