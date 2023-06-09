@@ -46,10 +46,16 @@ Here, we can see that the usage of 'girl' or 'girls' during the postwar period, 
 
 While I was reading these articles, one of the things I kept noticing was the frequent mention of what the women who were doing work looked like or were wearing. To me, it felt like when they were discussing labor, especially during wars, they would talk a little about the work and then say "oh they wore...", so I wanted to look at how frequently their outfits were actually being mentioned, or if it just felt like a lot because it was impactful. 
 
+#### Terms
+
 <img width="555" alt="Screenshot 2023-06-09 at 2 29 27 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/5760921b-71ae-446f-a5e3-0375d5872a3f"> 
 
 I chose to track these different terms, compared alongside girl* which we've already used, to get an idea of scale in our trends graph. 
+
+#### Trends
 <img width="748" alt="Screenshot 2023-06-09 at 2 29 38 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ea9c8bd4-839a-49e3-94d3-648e23a68781">
+
+So, what does this (frankly difficult to interpret graph (seriously Voyant why use such similar colors???)) mean? Wear*, clothing*, and uniform*, all had the highest usages during WW1, skirt* was used during both wars, dressed* was used most frequently during the interwar period, and khaki* was most frequently used during the postwar period. I don't think necessarily that when each was used has all that much meaning, but I find it is noteworthy that they were used at all, and with frequency and variation. Fun fact! It doesn't matter what a woman wears while building munitions or that she wore a skirt while digging mines! (Shocking!!!! I know) So I think that in these papers, the fact that the clothes women wore and the way they looked while participating in labor were important enough for journalists to mention in news stories is revealing about how people felt towards women's participation in the workforce. 
 
 ## How did the necessity for women's labor vary during both wars?
 
