@@ -18,7 +18,10 @@ One of the ways that I tracked the way that women were talked about, was by exam
 
 <img width="467" alt="Screenshot 2023-06-08 at 10 34 10 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d2bb57b6-1240-4dd2-9989-48d07ced0396">
 <img width="566" alt="Screenshot 2023-06-08 at 11 03 08 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ed2d9ee6-ea57-4511-8b07-483c418f0f44">
-<img width="861" alt="Screenshot 2023-06-08 at 11 03 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/20f58b5a-ad5b-4b6f-b457-ef1c45141a58">
+<img width="861" alt="Screenshot 2023-06-08 at 11 03 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/20f58b5a-ad5b-4b6f-b457-ef1c45141a58"><img width="746" alt="Screenshot 2023-06-09 at 1 00 04 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d73d6c26-a3eb-4266-9a58-a6fb8c2eb8db">
+<img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">
+
+
 
 ### How did the necessity for women's labor vary during both wars?
 
