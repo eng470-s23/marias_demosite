@@ -9,17 +9,16 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
 #### How did the way that women were talked about change?
 
 referral to women as 'girls' vs girls as girls:
-<img width="446" alt="Screenshot 2023-06-08 at 8 22 15 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/734c0c4e-974b-4223-bebf-4b5de2f295fe">
+
 
 #### How did the necessity for women's labor vary during both wars?
 
 necessity for women to participate in farm work & work in factories during ww1:
-<img width="467" alt="Screenshot 2023-06-08 at 8 38 04 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/2ae657d4-4a37-47f7-8656-c19438ec09ca">
-<img width="464" alt="Screenshot 2023-06-08 at 8 38 35 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/e58f9d7c-dcd0-464a-b094-ac366b68865c">
+
 
 necessity for women to participate in industrial work during ww2:
-usage of industrial:
-<img width="464" alt="Screenshot 2023-06-08 at 8 37 43 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/da0f4d20-661b-4362-8fd5-571ba5590827">
+
+
 
 #### How about discussion of wages, hours, and working conditions?
 
