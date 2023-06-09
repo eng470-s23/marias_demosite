@@ -10,7 +10,7 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
    - [How did the way that women were talked about change?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-did-the-way-that-women-were-talked-about-change?) 
      - [Usage of Girls vs. Women](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-of-Girls-vs.-Women)
        
-       | [Overall trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Overall-trends) | [Usage during interwar](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-during-interwar) | [Contexts in 1918-19](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-1918---19) | [Contexts in Post WW2 Period](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-Post-WW2-Period) |
+       | [Overall trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Overall-trends) | [Usage during interwar](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-during-interwar) | [Contexts in 1918-19](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-1918---19) | [Contexts in Post WW2 Period](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-Post-WW2-Period) | [What Does It Mean?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-Does-It-Mean?)
      - [What Was She Wearing?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-Was-She-Wearing?)
      
        | [Terms](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Terms) | [Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Trends)
@@ -48,7 +48,7 @@ Here, we can see that the usage of 'girl' or 'girls' during the postwar period, 
 
 ##### **What Does It Mean?**
 
-I previously discussed how 'girl' or 'girls' are meant or perceieved when used in reference to adult women, and while the changes in usage are interesting, I think that the broad usage of this term reflects a lot about the way people felt about women's work and women's participance in the work that was done during the war. 
+I previously discussed how 'girl' or 'girls' are meant or perceieved when used in reference to adult women, and while the changes in usage are interesting, I think that the broad usage of this term reflects a lot about the way people felt about women's work and women's participance in the work that was done during the war. I think that in these contexts, the usage of girl* in relation to work done during the war was meant to undermine the difficulty and importance of the work, as well as the skills of the women doing this work. It equates this work to things that could be done by children, as if entire countries weren't dependent on the labor of women during this period. I think it demonstrates a broader mindset of 'women as unskilled laborers' who are easily replaceable, as well as spot holders for men, or the 'skilled laborers', who were returning to their jobs.
 
 ### What Was She Wearing?
 
