@@ -21,16 +21,19 @@ One of the ways that I tracked the way that women were talked about, was by exam
 #### Overall trends:
 <img width="467" alt="Screenshot 2023-06-08 at 10 34 10 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d2bb57b6-1240-4dd2-9989-48d07ced0396">
 
-#### 
+#### Usage during interwar
 <img width="566" alt="Screenshot 2023-06-08 at 11 03 08 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ed2d9ee6-ea57-4511-8b07-483c418f0f44">
 
-####
-<img width="861" alt="Screenshot 2023-06-08 at 11 03 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/20f58b5a-ad5b-4b6f-b457-ef1c45141a58"><img width="746" alt="Screenshot 2023-06-09 at 1 00 04 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d73d6c26-a3eb-4266-9a58-a6fb8c2eb8db">
+#### Contexts in 1918
+<img width="861" alt="Screenshot 2023-06-08 at 11 03 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/20f58b5a-ad5b-4b6f-b457-ef1c45141a58">
 
-####
+#### Contexts in 1919
+<img width="746" alt="Screenshot 2023-06-09 at 1 00 04 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d73d6c26-a3eb-4266-9a58-a6fb8c2eb8db">
+
+#### Contexts of usage in Post WW2 Period
 <img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">
 
-
+Here, we can see that the usage of 'girl' or 'girls' during the postwar period, was only used in reference to actual girls, instead of grown women. Although there were fewer texts from this period to analyze, the lack of usage in the articles I did have has significance; in the interwar period, girl* referred to actual girls about 20% of the time, and in the postwar period, it referred to actual girls 100% of the time.
 
 ### How did the necessity for women's labor vary during both wars?
 
