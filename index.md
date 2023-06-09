@@ -10,11 +10,11 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
    - [How did the way that women were talked about change?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-did-the-way-that-women-were-talked-about-change?) 
      - [Usage of Girls vs. Women](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-of-Girls-vs.-Women)
        
-       | [Overall trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Overall-trends) | [Usage during interwar](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-during-interwar) | [Contexts in 1918-19](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-1918---19) | [Contexts in Post WW2 Period](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-Post-WW2-Period) | [What Does It Mean?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-Does-It-Mean?)
+       | [Overall trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Overall-trends) | [Usage during interwar](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-during-interwar) | [Contexts in 1918-19](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-1918---19) | [Contexts in Post WW2 Period](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-Post-WW2-Period) | [What Does It Mean?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-Does-It-Mean?) |
      - [What Was She Wearing?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-Was-She-Wearing?)
      
        | [Terms](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Terms) | [Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Trends)
-   - [How did the necessity for women's labor vary during both wars?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-did-the-necessity-for-women's-labor-vary-during-both-wars?)
+   - [How did the necessity for women's labor vary during both wars?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-did-the-necessity-for-women's-labor-vary-during-both-wars?) |
         - [WW1 - Labor Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#WW1---Labor-Trends)
         - [WW2 - Labor Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#WW2---Labor-Trends)
    - [How about discussion of wages, hours, and working conditions?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-about-discussion-of-wages,-hours,-and-working-conditions?)
