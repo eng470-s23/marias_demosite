@@ -41,11 +41,15 @@ Here, we can see that the usage of 'girl' or 'girls' during the postwar period, 
 
 <img width="463" alt="Screenshot 2023-06-08 at 10 51 47 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/88a3281e-4889-4055-b5e4-e14a1d94d5be">
 
-#### During ww1, the biggest industries that required women's work were agricultural work & factory work:
+### WW1 - Labor trends
+
+During WW1, the biggest industries that required women's work were agricultural work & factory work:
 
 <img width="461" alt="Screenshot 2023-06-08 at 10 35 17 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/39a9b3e1-e671-42cf-bcad-acc9fe543b74">
 
 <img width="466" alt="Screenshot 2023-06-08 at 10 34 40 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/444f4fef-8a98-44d3-a18d-e7206f18b5eb">
+
+### WW2 - labor trends
 
 Oregon was a completely different place during ww2 than it had been during ww1, due to increased industrialization, thus changing the field in which women were needed to work to reflect changing industries:
 
