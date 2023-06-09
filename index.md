@@ -29,9 +29,7 @@ necessity for women to participate in industrial work during ww2:
 
 ### How about women's participance in unions?
 
-During WW2, the mention of unions in relation to women's labor drops to none. In Portland during the war, women were doing a bunch of industrial work and were joining unions, but many didn't want to take women in because they knew they'd want to let them go at the end of the war.
-
-<img width="463" alt="Screenshot 2023-06-08 at 10 54 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ef6f974f-9c1a-482b-a1e7-05a702a18773">
+During WW2, the mention of unions in relation to women's labor drops to none. In Portland during the war, women were doing a bunch of industrial work and were joining unions, but many didn't want to take women in because they knew they'd want to let them go at the end of the war. Based on the lack of mentions of union in newspapers alongside women's labor, one can infer that they weren't mentioned during this period for a reason, possibly because they didn't want to remind the hoards of women joining the work force to join them. <img width="463" alt="Screenshot 2023-06-08 at 10 54 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ef6f974f-9c1a-482b-a1e7-05a702a18773">
 
 
 
