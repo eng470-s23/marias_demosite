@@ -24,7 +24,7 @@ usage of industrial:
 #### How about discussion of wages, hours, and working conditions?
 
 increased discussion of wages, decreased discussion of conditions and hours
-<img width="466" alt="Screenshot 2023-06-08 at 8 41 03 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/3315584a-53e4-4d6d-90e8-e584a9971f0d">
 <img width="466" alt="Screenshot 2023-06-08 at 8 39 16 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/9a9a3ea0-88ff-4acd-b6b5-4470e5da3737">
 <img width="471" alt="Screenshot 2023-06-08 at 8 38 52 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/85958670-6a68-497b-822c-d13d293d14f5">
+<img width="466" alt="Screenshot 2023-06-08 at 8 41 03 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/3315584a-53e4-4d6d-90e8-e584a9971f0d">
 
