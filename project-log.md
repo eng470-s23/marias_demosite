@@ -85,7 +85,7 @@ Source 8: (these are the newspapers I'm using for my project):
 ## notes
 
 ## research question
--
+- How do Oregon Historical newspapers from around the state, including articles about cities around the world, reflect changing attitudes towards women’s participation in the workforce in Oregon from 1910-1975? 
 
 ## annotated bibliography
 
@@ -180,7 +180,6 @@ Source 8: (these are the newspapers I'm using for my project):
 ---
 # week 7
 ## notes
-- notes go here
 
 ---
 # week 8
