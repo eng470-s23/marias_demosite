@@ -8,6 +8,8 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
 
 ### Jump to!!
    - [How did the way that women were talked about change?](/How-did-the-way-that-women-were-talked-about-change?) 
+        - hk
+        -  
    - [How did the necessity for women's labor vary during both wars?](/How-did-the-necessity-for-women's-labor-vary-during-both-wars?)
    - [How about discussion of wages, hours, and working conditions?](/How-about-discussion-of-wages,-hours,-and-working-conditions?)
    - [How about women's participance in unions?](/How-about-women's-participance-in-unions?)
@@ -16,6 +18,7 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
 
 One of the ways that I tracked the way that women were talked about, was by examining the usage of 'girls' as a term when being used to discuss adult women. While this term isn't offensive, when adult women are referred to as 'girls' it's often meant in a condescending way, and is meant to undermine the intelligence, experience, and maturity that women have. The articles I processed revealed that the usage of 'girl' or 'girls' in reference to adult women peaked during the interwar period, and after closer examination, revealed that this was most commonly used at the end of 1918, after the end of ww1. 
 
+##### Using 'girl' to refer to women - trends:
 <img width="467" alt="Screenshot 2023-06-08 at 10 34 10 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d2bb57b6-1240-4dd2-9989-48d07ced0396">
 
 
