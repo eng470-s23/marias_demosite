@@ -8,9 +8,14 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
 
 ## Jump to!!
    - [How did the way that women were talked about change?](/How-did-the-way-that-women-were-talked-about-change?) 
-        - hk
-        -  
+        - [Overall trends](/Overall-trends)
+        - [Usage during interwar](/Usage-during-interwar)
+        - [Contexts in 1918](/Contexts-in-1918)
+        - [Contexts in 1919](/Contexts-in-1919)
+        - [Contexts in Post WW2 Period](/Contexts-in-Post-WW2-Period)
    - [How did the necessity for women's labor vary during both wars?](/How-did-the-necessity-for-women's-labor-vary-during-both-wars?)
+        - [WW1 - Labor Trends](/WW1-LaborTrends)
+        - [WW2 - Labor Trends](/WW2-Labor-Trends)
    - [How about discussion of wages, hours, and working conditions?](/How-about-discussion-of-wages,-hours,-and-working-conditions?)
    - [How about women's participance in unions?](/How-about-women's-participance-in-unions?)
 
@@ -30,7 +35,7 @@ One of the ways that I tracked the way that women were talked about, was by exam
 #### Contexts in 1919
 <img width="746" alt="Screenshot 2023-06-09 at 1 00 04 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d73d6c26-a3eb-4266-9a58-a6fb8c2eb8db">
 
-#### Contexts of usage in Post WW2 Period
+#### Contexts in Post WW2 Period
 <img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">
 
 Here, we can see that the usage of 'girl' or 'girls' during the postwar period, was only used in reference to actual girls, instead of grown women. Although there were fewer texts from this period to analyze, the lack of usage in the articles I did have has significance; in the interwar period, girl* referred to actual girls about 20% of the time, and in the postwar period, although used with much less frequency, referred to actual girls 100% of the time.
@@ -41,7 +46,7 @@ Here, we can see that the usage of 'girl' or 'girls' during the postwar period, 
 
 <img width="463" alt="Screenshot 2023-06-08 at 10 51 47 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/88a3281e-4889-4055-b5e4-e14a1d94d5be">
 
-### WW1 - Labor trends
+#### WW1 - Labor Trends
 
 During WW1, the biggest industries that required women's work were agricultural work & factory work:
 
@@ -49,7 +54,7 @@ During WW1, the biggest industries that required women's work were agricultural 
 
 <img width="466" alt="Screenshot 2023-06-08 at 10 34 40 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/444f4fef-8a98-44d3-a18d-e7206f18b5eb">
 
-### WW2 - labor trends
+#### WW2 - Labor Trends
 
 Oregon was a completely different place during ww2 than it had been during ww1, due to increased industrialization, thus changing the field in which women were needed to work to reflect changing industries:
 
