@@ -34,6 +34,7 @@ This graph is a little hard to read, but the mentions of wages increase during w
 ### How about women's participance in unions?
 
 During WW2, the mention of unions in relation to women's labor drops to none. In Portland during the war, women were doing a bunch of industrial work and were joining unions, but many didn't want to take women in because they knew they'd want to let them go at the end of the war. Based on the lack of mentions of union in newspapers alongside women's labor, one can infer that they weren't mentioned during this period 
+
 <img width="463" alt="Screenshot 2023-06-08 at 10 54 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/b1058abc-ccbc-49cb-8cef-fae3a9d9527c">
 
 
