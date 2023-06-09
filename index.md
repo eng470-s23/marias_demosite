@@ -10,6 +10,7 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
    - [How did the way that women were talked about change?](/How-did-the-way-that-women-were-talked-about-change?) 
    - [How did the necessity for women's labor vary during both wars?](/How-did-the-necessity-for-women's-labor-vary-during-both-wars?)
    - [How about discussion of wages, hours, and working conditions?](/How-about-discussion-of-wages,-hours,-and-working-conditions?)
+   - [How about women's participance in unions?](/How-about-women's-participance-in-unions?)
 
 ### How did the way that women were talked about change?
 
@@ -25,6 +26,8 @@ necessity for women to participate in industrial work during ww2:
 
 
 ### How about discussion of wages, hours, and working conditions?
+
+### How about women's participance in unions?
 
 
 
