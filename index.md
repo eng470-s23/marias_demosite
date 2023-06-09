@@ -10,7 +10,7 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
    - [How did the way that women were talked about change?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-did-the-way-that-women-were-talked-about-change?) 
      - [Usage of Girls vs. Women](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-of-Girls-vs.-Women)
        
-       | [Overall trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Overall-trends) | [Usage during interwar](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-during-interwar) | [Contexts in 1918](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-1918) | [Contexts in 1919](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-1919) | [Contexts in Post WW2 Period](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-Post-WW2-Period) |
+       | [Overall trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Overall-trends) | [Usage during interwar](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-during-interwar) | [Contexts in 1918-19](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-1918---19) | [Contexts in Post WW2 Period](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-Post-WW2-Period) |
      - [What Was She Wearing?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-Was-She-Wearing?)
      
        | [Terms](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Terms) | [Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Trends)
@@ -19,6 +19,7 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
         - [WW2 - Labor Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#WW2---Labor-Trends)
    - [How about discussion of wages, hours, and working conditions?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-about-discussion-of-wages,-hours,-and-working-conditions?)
    - [How about women's participance in unions?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-about-women's-participance-in-unions?)
+   - [Conclusion](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Conclusion)
 
 ## How did the way that women were talked about change?
 
@@ -32,16 +33,18 @@ One of the ways that I tracked the way that women were talked about, was by exam
 #### Usage during interwar
 <img width="566" alt="Screenshot 2023-06-08 at 11 03 08 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ed2d9ee6-ea57-4511-8b07-483c418f0f44">
 
-#### Contexts in 1918
-<img width="861" alt="Screenshot 2023-06-08 at 11 03 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/20f58b5a-ad5b-4b6f-b457-ef1c45141a58">
+#### Contexts in 1918-19
 
-#### Contexts in 1919
-<img width="746" alt="Screenshot 2023-06-09 at 1 00 04 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d73d6c26-a3eb-4266-9a58-a6fb8c2eb8db">
+I decided to include some of the contexts of the usage of these articles, and because around the end of WW1 was when it occurred most frequently, I included some that occurred a few months before the end of the war, those after the end of the war where usage peaked, and one a few months after the end of the war. 
+
+<img width="860" alt="Screenshot 2023-06-09 at 3 32 00 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8668bb35-8722-4981-b76d-74631d42fdb9">
+
+I think five of these articles use girl* when referring to actual girls, as they say 'women and girls' or 'boys and girls', meaning that 14 other uses, most of which are in reference to factory workers or workers of some kind, are referring to women.  
 
 #### Contexts in Post WW2 Period
 <img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">
 
-Here, we can see that the usage of 'girl' or 'girls' during the postwar period, was only used in reference to actual girls, instead of grown women. Although there were fewer texts from this period to analyze, the lack of usage in the articles I did have has significance; in the interwar period, girl* referred to actual girls about 20% of the time, and in the postwar period, although used with much less frequency, referred to actual girls 100% of the time.
+Here, we can see that the usage of 'girl' or 'girls' during the postwar period, was only used in reference to actual girls, instead of grown women. Although there were fewer texts from this period to analyze, the lack of usage in the articles I did have has significance; in the image included for contexts in 1918-19, girl* referred to actual girls about 26% of the time, and in the postwar period, although used with much less frequency, referred to actual girls 100% of the time. 
 
 ### What Was She Wearing?
 
@@ -92,5 +95,5 @@ During WW2, the mention of unions in relation to women's labor drops to none. In
 
 <img width="463" alt="Screenshot 2023-06-08 at 10 54 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/b1058abc-ccbc-49cb-8cef-fae3a9d9527c">
 
-
+## Conclusion
 
