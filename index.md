@@ -1,8 +1,6 @@
 ## Changing Attitudes Towards Women’s Labor: How Newspapers Reflect Popular Ideologies
 
-### DH Capstone Project
-
-You can click these different links to get an idea of my work along the way!!
+### My DH Capstone Project! You can click these different links to get an idea of my work along the way!!
 
 [project log](/project-log.md) | [data management plan](/data-management.md) | [presentation](/presentation.pdf) | [data](https://github.com/eng470-s23/marias_demosite/tree/main/data) | [bibliography for data](/DH-Capstone-Sources.pdf)
 
