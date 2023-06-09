@@ -18,6 +18,7 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
    - [How did the necessity for women's labor vary during both wars?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-did-the-necessity-for-women's-labor-vary-during-both-wars?)
         - [WW1 - Labor Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#WW1---Labor-Trends)
         - [WW2 - Labor Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#WW2---Labor-Trends)
+        - [What do these trends reveal?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-do-these-trends-reveal?)
    - [How about discussion of wages, hours, and working conditions?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-about-discussion-of-wages,-hours,-and-working-conditions?)
    - [How about women's participance in unions?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-about-women's-participance-in-unions?)
    - [Conclusion](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Conclusion)
@@ -49,7 +50,7 @@ Here, we can see that the usage of 'girl' or 'girls' during the postwar period, 
 
 ##### **What Does It Mean?**
 
-I previously discussed how 'girl' or 'girls' are meant or perceieved when used in reference to adult women, and while the changes in usage are interesting, I think that the broad usage of this term reflects a lot about the way people felt about women's work and women's participance in the work that was done during the war. I think that in these contexts, the usage of girl* in relation to work done during the war was meant to undermine the difficulty and importance of the work, as well as the skills of the women doing this work. It equates this work to things that could be done by children, as if entire countries weren't dependent on the labor of women during this period. I think it demonstrates a broader mindset of 'women as unskilled laborers' who are easily replaceable, as well as spot holders for men, or the 'skilled laborers', who were returning to their jobs.
+I previously discussed how 'girl' or 'girls' are meant or perceieved when used in reference to adult women, and while the changes in usage are interesting, I think that the broad usage of this term reflects a lot about the way people felt about women's work and women's participance in the work that was done during the war. I think that in these contexts, the usage of girl* in relation to work done during the war was meant to undermine the difficulty and importance of the work, as well as the skills of the women doing this work. It equates this work to things that could be done by children, as if entire countries weren't dependent on the labor of women during this period. I think it demonstrates a broader mindset of 'women as unskilled laborers' who are easily replaceable, as well as spot holders for men, or the 'skilled laborers', who were returning to their jobs, and because women had the skills of girls, there was no reason for them to take spots in the work force away from men, or just in general.
 
 ### What Was She Wearing?
 
@@ -64,7 +65,7 @@ I chose to track these different terms, compared alongside girl* which we've alr
 #### Trends
 <img width="748" alt="Screenshot 2023-06-09 at 2 29 38 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ea9c8bd4-839a-49e3-94d3-648e23a68781">
 
-So, what does this (frankly difficult to interpret graph (seriously Voyant why use such similar colors???)) mean? Wear*, clothing*, and uniform*, all had the highest usages during WW1, skirt* was used during both wars, dressed* was used most frequently during the interwar period, and khaki* was most frequently used during the postwar period. I don't think necessarily that when each was used has all that much meaning, but I find it is noteworthy that they were used at all, and with frequency and variation. Fun fact! It doesn't matter what a woman wears while building munitions or that she wore a skirt while digging mines! (Shocking!!!! I know) So I think that in these papers, the fact that the clothes women wore and the way they looked while participating in labor were important enough for journalists to mention in news stories is revealing about how people felt towards women's participation in the workforce. 
+So, what does this (frankly difficult to interpret graph (seriously Voyant why use such similar colors???)) mean? Wear, clothing, and uniform, all had the highest usages during WW1, skirt was used during both wars, dressed was used most frequently during the interwar period, and khaki was most frequently used during the postwar period. I don't think necessarily that when each was used has all that much meaning, but I find it is noteworthy that they were used at all, and with frequency and variation. Fun fact! It doesn't matter what a woman wears while building munitions or that she wore a skirt while digging mines! (Shocking!!!! I know) So I think that in these papers, the fact that the clothes women wore and the way they looked while participating in labor were important enough for journalists to mention in **news stories** is revealing about how people felt towards women, and their participation in the workforce. It alludes to the fact that the appearance of women is just as important as the work that they are doing, if not more, and the value of women is based on appearance, and women should always put looking a certain way - even when going to work in a factory. I think this reveals the way a lot of people felt about women's participation in the work force because it relegatesas being just as, if not more important than their job.
 
 ## How did the necessity for women's labor vary during both wars?
 
@@ -87,6 +88,10 @@ Oregon was a completely different place during ww2 than it had been during ww1, 
 <img width="462" alt="Screenshot 2023-06-08 at 10 35 52 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d4f60aab-fb40-49cd-a77b-a0241eabb56a">
 
 <img width="463" alt="Screenshot 2023-06-08 at 10 35 34 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/dcb9f6ed-013d-4148-82ef-d6737de59771">
+
+#### What do these trends reveal?
+
+I think that because these trends are so clear and distinct, it emphasizes the fact that women were only needed to fill these jobs in these specific fields during these periods, and afterwards, most of them had to give their jobs up to men coming back from war. Tons of women were trained in new areas, and were just as, if not more skilled than men in their fields, but outside of the wars, were not needed, or not wanted, in their respective fields. 
 
 ## How about discussion of wages, hours, and working conditions?
 
