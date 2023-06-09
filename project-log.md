@@ -7,9 +7,9 @@
 
 
 ## pitch
-- My research topic is:  
+- My research topic is: women's labor activism in Oregon after WW2 
 
-- My research question is: 
+- My research question is: How did WW2 impact women's attitudes towards labor and their roles within the workforce?
 
 - I expect to work with the following *materials*: I plan to work with both secondary and primary sources during this project. I have found some articles already on this topic as well as some data about labor during the 20th century and photos that I have requested and will look at most likely next week. 
 
