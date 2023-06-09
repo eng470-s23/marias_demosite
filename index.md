@@ -21,6 +21,8 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
 
 ## How did the way that women were talked about change?
 
+### Usage of Girls vs. Women
+
 One of the ways that I tracked the way that women were talked about, was by examining the usage of 'girls' as a term when being used to discuss adult women. While this term isn't offensive, when adult women are referred to as 'girls' it's often meant in a condescending way, and is meant to undermine the intelligence, experience, and maturity that women have. The articles I processed revealed that the usage of 'girl' or 'girls' in reference to adult women peaked during the interwar period, and after closer examination, revealed that this was most commonly used at the end of 1918, after the end of ww1. 
 
 #### Overall trends:
@@ -39,6 +41,15 @@ One of the ways that I tracked the way that women were talked about, was by exam
 <img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">
 
 Here, we can see that the usage of 'girl' or 'girls' during the postwar period, was only used in reference to actual girls, instead of grown women. Although there were fewer texts from this period to analyze, the lack of usage in the articles I did have has significance; in the interwar period, girl* referred to actual girls about 20% of the time, and in the postwar period, although used with much less frequency, referred to actual girls 100% of the time.
+
+### What Was She Wearing?
+
+While I was reading these articles, one of the things I kept noticing was the frequent mention of what the women who were doing work looked like or were wearing. To me, it felt like when they were discussing labor, especially during wars, they would talk a little about the work and then say "oh they wore...", so I wanted to look at how frequently their outfits were actually being mentioned, or if it just felt like a lot because it was impactful. 
+
+<img width="555" alt="Screenshot 2023-06-09 at 2 29 27 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/5760921b-71ae-446f-a5e3-0375d5872a3f"> 
+
+I chose to track these different terms, compared alongside girl* which we've already used, to get an idea of scale in our trends graph. 
+<img width="748" alt="Screenshot 2023-06-09 at 2 29 38 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ea9c8bd4-839a-49e3-94d3-648e23a68781">
 
 ## How did the necessity for women's labor vary during both wars?
 
