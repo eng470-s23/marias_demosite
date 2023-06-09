@@ -1,16 +1,15 @@
 # week 2
 ## notes
--
 
 ---
 # week 3
 ## notes
--
+
 
 ## pitch
-- My research topic is: women's labor activism in Oregon after WW2 
+- My research topic is:  
 
-- My research question is: How did WW2 impact women's attitudes towards labor and their roles within the workforce?
+- My research question is: 
 
 - I expect to work with the following *materials*: I plan to work with both secondary and primary sources during this project. I have found some articles already on this topic as well as some data about labor during the 20th century and photos that I have requested and will look at most likely next week. 
 
@@ -70,6 +69,8 @@ Source 8: (these are the newspapers I'm using for my project):
 
 7. source #7: Oliver, Gordon. “Kaiser Shipyards.” *The Oregon Encyclopedia,* Oregon Historical Society , www.oregonencyclopedia.org/articles/kaiser_shipyards/#.ZEwxeezMLs1. 
 
+8. [newspaper sources](/DH-Capstone-Sources.pdf)
+
 ## reading plan
 - read source 1: 5/1
 - read source 2: 5/1
@@ -82,11 +83,9 @@ Source 8: (these are the newspapers I'm using for my project):
 ---
 # week 5
 ## notes
-- How did the experiences of different groups of women workingf in shipyards in Portland during WW2 change based on their race/age? (indigenous women, black women, elderly women) 
 
 ## research question
-- How did the experiences of different groups of women workingf in shipyards in Portland during WW2 change based on their race/age? (indigenous women, black women, elderly women) 
-- changing directions again: How do Oregon Historical newspapers reflect changing attitudes towards womens labor in Oregon from 1910-1970?
+-
 
 ## annotated bibliography
 
@@ -107,6 +106,7 @@ Source 8: (these are the newspapers I'm using for my project):
 - summary: Platt's writing details the experiences and specifics of women who entered different areas of the workforce, especially  related to war-production. She uses numbers and percentages to provide a picture of the workforce in Oregon, and goes into depth about the experiences of black women in the shipyards in Portland. She goes into post war conditions in Oregon for women as men came back from war, and Platt mentions more in depth the post war experience of women of color in Oregon - particularly Black and Japanese American women. She then gives pages to a few different women who worked during the war and goes in depth about what they did and their experience. In the midst of these individual shoutouts, she provides a page of information about Indigenous women in Oregon who worked in the shipyards.
 
 - potential use for project: I think because Platt uses some statistics in this article, particularly in regards to numbers of women working in industrial fields in Oregon and the numbers of women in the work force during this period - I would like to use those specifics in my project. Platt also wrote a profile of a female welder who worked in the shipyards, and wrote about Indiegnous women working in the shipyards, and I would like to use the information from both of these pages in my project (not sure how yet). I really like that Platt provided information about women of color and their experiences and I would also like to do the same. 
+
 - indication of general utility of source: Platt's article provides specific numbers, particularly in regards to numbers of women working industrial fields in Oregon and the numbers of women in the work force during this period, which could be useful for different projects. Platt also provides profiles and experiences of specific women, and discusses the experience of women of color which could be useful to provide further background information, or one could use these specifics in a project. 
 
 ### source 3 annotation
@@ -115,14 +115,8 @@ Source 8: (these are the newspapers I'm using for my project):
 - summary: Simmons begins her discussion of women's labor in the shipyards with the mention of Rosie the Riveter, both the original poster and the version created by Norman Rockwell. Simmons then moves on to discuss the viewpoint that many people, men in particular, around Oregon had of women doing industrial labor, particularly working in the shipyards, and how these ideals influenced newspapers and propaganda posters, such as both of these versions of Rosie the Riveter. She then discusses the experience of white and black women working in the shipyards, and their experiences working alongside men. She then moves on to discuss Eva Eldridge, who Simmons knew, and Eva's experience working in the shipyards. 
 
 - potential use for project: Something that Simmons mentioned in the article was in regards to a childcare facility built by Kaiser to take care of the children of the women who were working in his shipyards. They were absent more often than men because of childcare, so Kaiser built a childcare center which I would like to talk about in my project. I think childcare was, and continues to be, a huge barrier for women's ability to work. 
-- indication of general utility: 
 
----
-# week 6
-## notes
-- based on the Orgeon historical newspapers, how did attitudes towards women's labor in Oregon change over time, as revealed in newspapers?
-
-## annotated bibliography, continued
+- indication of general utility: This source helped inspire the idea for my project, as the author was using newspapers to place herself within the context and attitudes of the period. I think that this source can be used for background information, and provides information about childcare centers at the shipyards and how they accounted for childcare as a barrier for women's ability to work.
 
 ### source 4 annotation
 - citation: Polishuk, Sandy. *Sticking to the Union: An Oral History of the Life and Times of Julia Ruuttila.* Palgrave Macmillan, 2003.  
@@ -131,7 +125,7 @@ Source 8: (these are the newspapers I'm using for my project):
 
 - potential use for project: Although originally I wanted to make a subsection of my project about Julia and use this book to inform that section, I have since switched gears. I think that I will use this book to inform my project detailing attitudes towards working women. The involevement of women in unions, and in the work force changed over time and is reflected in this book and I would like to use this book as background information. 
 
-- indication of general utility:
+- indication of general utility: This book is really interesting and includes tons of information, both from Julia Ruuttila herself, and from the author. Included in this book is a lot of information about Oregon and Oregon's history from the perspective of a labor activist, as well as informtaion about industrial work, labor unions, and journalism. 
 
 ### source 5 annotation
 - citation: Northwest Women's History Project . “Northwest Women's History Project Records and Interviews.” 2021, digitalcollections.ohs.org/coll-883-northwest-womens-history-project-records-and-interviews. Accessed 28 Apr. 2023.  
@@ -140,7 +134,7 @@ Source 8: (these are the newspapers I'm using for my project):
  
 - potential use for project: I think that from these interviews, I can tell the sort of jobs women were doing before and after the war (office work or secretarial work mostly), and even though they had experience working in industrial fields, they never would have hoped to get a job doing those things following the war. I think this provides context for me to see how women's work in trades was treated, and the roles that women were limited to working in. I think that these interviews also helped me to see how these women viewed themselves and their roles: for example, them having doubts about their capabilities prior to working in the yards, and them knowing that they'd be let go after the war. 
 
-- indication of general utility:
+- indication of general utility: These interviews are incredibly interesting and could be used for any number of things, including just listening for fun. I thought it was interesting to hear first hand accounts of the experiences of these women rather than reading them because it felt much more personal and real. They provide a lot of background information, and can place the listener within the context of pre, during, and post ww2. 
 
 ### source 6 annotation
 - citation: source #6: Oregon History Project. “Women in the Shipyards.” *Oregon, WWII, Women, and Work,* Oregon Historical Society, www.oregonhistoryproject.org/women-in-the-shipyards/.
@@ -149,7 +143,7 @@ Source 8: (these are the newspapers I'm using for my project):
  
 - potential use for project: I think that this source is beneficial to provide background information, but much of the information from this source can be found in other sources. I think one of the most useful things about this source is that it serves as a portal of sorts; many other sources about similar topics can be found at the bottom of this page and are linked, with small passages to show the reader what those sources are about. 
 
-- indication of general utility: 
+- indication of general utility: I think that for beginning research about Oregon's shipyards or for anyone just hoping to learn a bit more about the shipyards without doing a deep search, this page is really beneficial. It provides a little bit of everything and gives a lot of background information, and links to other sources about similar topics which can be found at the bottom of the page, and these sources have a little bit of information about them so the reader knows what they're getting into. 
 
 ### source 7 annotation
 - citation: source #7: Oliver, Gordon. “Kaiser Shipyards.” *The Oregon Encyclopedia,* Oregon Historical Society , www.oregonencyclopedia.org/articles/kaiser_shipyards/#.ZEwxeezMLs1.
@@ -158,23 +152,24 @@ Source 8: (these are the newspapers I'm using for my project):
 
 - potential use for project: I think that this is useful because it helped me to understand just how many people moved to Portland for work. There was a desperate need for industrial workers in Portland during the war, and this didn't allow shipyards and other places of work to be picky about who they hired. I think that at least for a few years, for the duration of the war, what newspapers have to say about working women will be different from before and after the war. 
 
-- indication of general utility:
+- indication of general utility: I think that this source could potentially be useful for anyone hoping to learn more about Portland's shipyards in general, it has a lot of good background information about them and could be helpful for both broad or specific uses. This page also links to others which are similar, making it a helpful starting point for research on this topic. 
+
+---
+# week 6
+## notes
+- based on the Oregon historical newspapers, how did attitudes towards women's labor in Oregon change over time, as revealed in newspapers?
 
 ## environmental scan
-*The environmental scan situates your project within the existing scholarly research and articulates its contribution. Answer each of the following questions in about one well-developed paragraph. You may use bulleted lists to organize your thoughts, but please write in complete sentences.*
 
 ### contribution
-*Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
 - For this project I will analyze historic Oregon newspapers as a way to reveal changing ideals surrounding women's participation in the work force. I originally was interested in women's labor activism and the history of unions in Oregon, but struggled finding a gap in the research for my project. I am really interested in the history of Oregon, and I like learning about women's participation in history. I will analyze historic newspapers as a way to reveal changing attitudes, and I would like to present this analysis and create a digital exhibit with note worthy papers. My project is unqiue because I will be analyzing newspapers as a source that demonstrate popular opinions. I think there are projects that discuss changing ideals about women's participation in the labor force, but none analyze historic newspapers. I think this project will not only answer my original question about how changing ideals are reflected in newspapers, but I hope to also answer questions about how newspapers reflect popular attitudes, speak to the general public, and potentially influence the opinions of others. 
 
 ### methods
-*What tools and methods will you use, and why are those the best technologies for your purposes?*
 
 - The tools that will be used for this project are "textEdit" and "Voyant". TextEdit is a program one can download onto their computer, and can be used for many different types of projects. I will use this program to clean up the newspapers I am looking at, by fixing any mistakes and removing irrelevant sections, and storing and formatting these documents in an organized way that will make it easy to upload them to Voyant. I will use Voyant to analyze these texts and reveal patterns, as well as changing ideals. I think that these are the best technologies for this project because both are free and capable of doing what I need for this project, and are compatible with my computer. I believe that paying for any program that does these same functions is unneccessary and a waste of money, as both of these programs do what I need them to.
 
 ### stakeholders / audiences
-*Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
 - This project is intented for academics, such as both professors and students, specifically those interested in history, women and gender studies, or labor history. The majority of my sources are available through the UO, so the UO is also part of my intended audience: I would like to show the UO how people are using the resources that they have made available, and encourage them to continue providing these sources and other resources that may otherwise be difficult to access. I think in order to reach this audience it would be beneficial if I posted about it publicly for others to see. 
 
@@ -207,12 +202,24 @@ Source 8: (these are the newspapers I'm using for my project):
     - manikin -> mannequin
     - calory -> calorie
     - decripit -> decrepit
+
+
 ---
 # week 9
 ## notes
-- notes go here
+
 
 ---
 # week 10
 ## notes
-- notes go here
+Voyant stop word list:
+    - women
+    - woman
+    - labor
+    - work
+    - women's
+    - woman's
+    - working
+    - workers
+
+---
