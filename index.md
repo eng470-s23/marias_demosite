@@ -33,20 +33,24 @@ One of the ways that I tracked the way that women were talked about, was by exam
 #### Contexts of usage in Post WW2 Period
 <img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">
 
-Here, we can see that the usage of 'girl' or 'girls' during the postwar period, was only used in reference to actual girls, instead of grown women. Although there were fewer texts from this period to analyze, the lack of usage in the articles I did have has significance; in the interwar period, girl* referred to actual girls about 20% of the time, and in the postwar period, it referred to actual girls 100% of the time.
+Here, we can see that the usage of 'girl' or 'girls' during the postwar period, was only used in reference to actual girls, instead of grown women. Although there were fewer texts from this period to analyze, the lack of usage in the articles I did have has significance; in the interwar period, girl* referred to actual girls about 20% of the time, and in the postwar period, although used with much less frequency, referred to actual girls 100% of the time.
 
 ## How did the necessity for women's labor vary during both wars?
 
-Due to an urgent need for workers during both wars, there were increased discussions around women's employment:
+#### Due to an urgent need for workers during both wars, there were increased discussions around women's employment:
+
 <img width="463" alt="Screenshot 2023-06-08 at 10 51 47 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/88a3281e-4889-4055-b5e4-e14a1d94d5be">
 
-During ww1, the biggest industries that required women's work were agricultural work & factory work:
+#### During ww1, the biggest industries that required women's work were agricultural work & factory work:
+
 <img width="461" alt="Screenshot 2023-06-08 at 10 35 17 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/39a9b3e1-e671-42cf-bcad-acc9fe543b74">
+
 <img width="466" alt="Screenshot 2023-06-08 at 10 34 40 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/444f4fef-8a98-44d3-a18d-e7206f18b5eb">
 
 Oregon was a completely different place during ww2 than it had been during ww1, due to increased industrialization, thus changing the field in which women were needed to work to reflect changing industries:
 
 <img width="462" alt="Screenshot 2023-06-08 at 10 35 52 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d4f60aab-fb40-49cd-a77b-a0241eabb56a">
+
 <img width="463" alt="Screenshot 2023-06-08 at 10 35 34 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/dcb9f6ed-013d-4148-82ef-d6737de59771">
 
 ## How about discussion of wages, hours, and working conditions?
