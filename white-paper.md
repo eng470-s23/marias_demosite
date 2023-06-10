@@ -40,8 +40,9 @@ I ran into a lot of problems throughout this project, and one of the biggest was
 
 ## Project Outcomes
 
-The main outcome of this project was my [Website](https://eng470-s23.github.io/marias_demosite/) which links to all of the work I did over the term, as well as my data, the presentation I created, and 
-The primary purpose of this section is to help readers understand what you did or created during the course of your project.
+The main outcome of this project was my [Website](https://eng470-s23.github.io/marias_demosite/) which links to all of the work I did over the term like my [project log](/project-log.md), as well as my [data], the presentation I created, my fair use evaluation, and my bibliography. I think the project was semi-successful. I was able to communicate some of the changes I was hoping to, but not all of them, and I wasn't able to communicate a lot of other aspects that I wanted to, but I think the things I was able to show were successful. 
+
+
 
 Guiding Questions:
 
