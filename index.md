@@ -110,4 +110,4 @@ During WW2, the mention of unions in relation to women's labor drops to none. In
 
 ## Conclusion
 
-Examining this collection of newspapers,
+Examining this collection of newspapers revealed many things about changing attitudes toward's women's labor, and while some were more straightforward with different changes, other changes were revealed through things that were less noticeable, like language used to talk about women's labor. A lot of things surrounding labor, including what labor is necessary during a specific period in time, fluctuate a lot, especially in relation to things like world wars. I think that I was able to demonstrate some of these changes in this project, like trends based on fields that required the work of women, as well as discussions surrounding wages, but I'd like for this project to be more of an example than anything. With further examinations of these texts using Voyant, I'm sure people could find a million other things that are equally important, or more so, as what I presented in this project. Thanks for reading :).
