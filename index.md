@@ -34,7 +34,7 @@ One of the ways that I tracked the way that women were talked about, was by exam
 ![A graph of the frequency of the term girl across preww1, ww1, interwar, ww2, and postwar periods, plots around 0.5 up y axis during preww1, 0.7 at ww1, 0.9 at interwar, 0 at ww2, and .25 at postwar.](https://github.com/eng470-s23/marias_demosite/assets/129902716/d2bb57b6-1240-4dd2-9989-48d07ced0396)
 
 ##### **Usage during interwar:**
-![A graph depicting relative frequencies of usage of term girl in interwar period, between 1918 and 1932, highest point in 1918, then feb 1919, then Jan 1920, and then a few other small peaks, most at 0.](<img width="566" alt="Screenshot 2023-06-08 at 11 03 08 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ed2d9ee6-ea57-4511-8b07-483c418f0f44">) 
+![A graph depicting relative frequencies of usage of term girl in interwar period, between 1918 and 1932, highest point in 1918, then feb 1919, then Jan 1920, and then a few other small peaks, most at 0.](<img width="566" https://github.com/eng470-s23/marias_demosite/assets/129902716/ed2d9ee6-ea57-4511-8b07-483c418f0f44>) 
 
 ##### **Contexts in 1918-19:**
 
