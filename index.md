@@ -22,6 +22,7 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
    - [How about discussion of wages, hours, and working conditions?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-about-discussion-of-wages,-hours,-and-working-conditions?)
    - [How about women's participance in unions?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-about-women's-participance-in-unions?)
    - [Conclusion](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Conclusion)
+   - [Fair Use Assessment]
 
 ## How did the way that women were talked about change?
 
