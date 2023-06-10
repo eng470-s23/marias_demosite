@@ -40,12 +40,12 @@ One of the ways that I tracked the way that women were talked about, was by exam
 
 I decided to include some of the contexts of the usage of these articles, and because around the end of WW1 was when it occurred most frequently, I included some that occurred a few months before the end of the war, those after the end of the war where usage peaked, and one a few months after the end of the war. 
 
-![A graph depicting frequencies of usage of term employment in relation to women, peaks during ww1 and ww2, frequencies in prewar and interwar are around the same, and postwar is lower](<img width="860" alt="Screenshot 2023-06-09 at 3 32 00 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8668bb35-8722-4981-b76d-74631d42fdb9">)
+![A table depicting contexts of usage of the term girl within newspaper articles at the end of 1918, beginning of 1919](<img width="860" alt="Screenshot 2023-06-09 at 3 32 00 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8668bb35-8722-4981-b76d-74631d42fdb9">)
 
 I think five of these articles use girl* when referring to actual girls, as they say 'women and girls' or 'boys and girls', meaning that the 14 other uses, most of which are in reference to factory workers or workers of some kind, are referring to women.  
 
 ##### **Contexts in Post WW2 Period:**
-<img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">
+![A table depicting contexts of 2 usages of the term girl within newspaper articles in 1975, both talking about high schoolers](<img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">)
 
 Here, we can see that the usage of 'girl' or 'girls' during the postwar period, was only used in reference to actual girls, instead of grown women. Although there were fewer texts from this period to analyze, the lack of usage in the articles I did have has significance; in the image included for contexts in 1918-19, girl* referred to actual girls about 26% of the time, and in the postwar period, although used with much less frequency, referred to actual girls 100% of the time. 
 
@@ -59,12 +59,12 @@ While I was reading these articles, one of the things I kept noticing was the fr
 
 #### Terms
 
-<img width="555" alt="Screenshot 2023-06-09 at 2 29 27 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/5760921b-71ae-446f-a5e3-0375d5872a3f"> 
+![A table with these different terms pertaining to clothing, and the term girls, with number of uses in collection](<img width="555" alt="Screenshot 2023-06-09 at 2 29 27 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/5760921b-71ae-446f-a5e3-0375d5872a3f">) 
 
 I chose to track these different terms, compared alongside girl* which we've already used, to get an idea of scale in our trends graph. 
 
 #### Trends
-<img width="748" alt="Screenshot 2023-06-09 at 2 29 38 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ea9c8bd4-839a-49e3-94d3-648e23a68781">
+![Graph tracking frequencing of term girls compared to clothes related terms, girls much higher, others lower with no visible pattern](<img width="748" alt="Screenshot 2023-06-09 at 2 29 38 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ea9c8bd4-839a-49e3-94d3-648e23a68781">)
 
 So, what does this (frankly difficult to interpret graph (seriously Voyant why use such similar colors???)) mean? Wear, clothing, and uniform, all had the highest usages during WW1, skirt was used during both wars, dressed was used most frequently during the interwar period, and khaki was most frequently used during the postwar period. I don't think necessarily that when each was used has all that much meaning, but I find it is noteworthy that they were used at all, and with frequency and variation. Fun fact! It doesn't matter what a woman wears while building munitions or that she wore a skirt while digging mines! (Shocking!!!! I know) So I think that in these papers, the fact that the clothes women wore and the way they looked while participating in labor were important enough for journalists to mention in **news stories** is revealing about how people felt towards women, and their participation in the workforce. It alludes to the fact that the appearance of women is just as important as the work that they are doing, if not more, and the value of women is based on appearance, and women should always put looking a certain way - even when going to work in a factory. I think this reveals the way a lot of people felt about women's participation in the work force because it relegatesas being just as, if not more important than their job.
 
@@ -72,15 +72,15 @@ So, what does this (frankly difficult to interpret graph (seriously Voyant why u
 
 #### Due to an urgent need for workers during both wars, there were increased discussions around women's employment:
 
-<img width="463" alt="Screenshot 2023-06-08 at 10 51 47 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/88a3281e-4889-4055-b5e4-e14a1d94d5be">
+![A graph depicting frequencies of usage of term employment in relation to women, peaks during ww1 and ww2, frequencies in prewar and interwar are around the same, and postwar is lower](<img width="463" alt="Screenshot 2023-06-08 at 10 51 47 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/88a3281e-4889-4055-b5e4-e14a1d94d5be">)
 
 #### WW1 - Labor Trends
 
 During WW1, the biggest industries that required women's work were agricultural work & factory work:
 
-<img width="461" alt="Screenshot 2023-06-08 at 10 35 17 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/39a9b3e1-e671-42cf-bcad-acc9fe543b74">
+![graph depicting frequencies of mentions of agricultural work in newspapers related to women labor](<img width="461" alt="Screenshot 2023-06-08 at 10 35 17 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/39a9b3e1-e671-42cf-bcad-acc9fe543b74">)
 
-<img width="466" alt="Screenshot 2023-06-08 at 10 34 40 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/444f4fef-8a98-44d3-a18d-e7206f18b5eb">
+![graph depicting frequencies of mentions of factory work in newspapers related to women labor](<img width="466" alt="Screenshot 2023-06-08 at 10 34 40 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/444f4fef-8a98-44d3-a18d-e7206f18b5eb">)
 
 #### WW2 - Labor Trends
 
