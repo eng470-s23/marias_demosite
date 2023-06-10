@@ -31,21 +31,21 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
 One of the ways that I tracked the way that women were talked about, was by examining the usage of 'girls' as a term when being used to discuss adult women. While this term isn't offensive, when adult women are referred to as 'girls' it's often meant in a condescending way, and is meant to undermine the intelligence, experience, and maturity that women have. The articles I processed revealed that the usage of 'girl' or 'girls' in reference to adult women peaked during the interwar period, and after closer examination, revealed that this was most commonly used at the end of 1918, after the end of ww1. 
 
 ##### **Overall trends:**
-![A graph of the frequency of the term girl across preww1, ww1, interwar, ww2, and postwar periods, plots around 0.5 up y axis during preww1, 0.7 at ww1, 0.9 at interwar, 0 at ww2, and .25 at postwar](<img width="467" alt="Screenshot 2023-06-08 at 10 34 10 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d2bb57b6-1240-4dd2-9989-48d07ced0396">)
+![A graph of the frequency of the term girl across preww1, ww1, interwar, ww2, and postwar periods, plots around 0.5 up y axis during preww1, 0.7 at ww1, 0.9 at interwar, 0 at ww2, and .25 at postwar.](<img width="467" alt="Screenshot 2023-06-08 at 10 34 10 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/d2bb57b6-1240-4dd2-9989-48d07ced0396">)
 
 ##### **Usage during interwar:**
-<img width="566" alt="Screenshot 2023-06-08 at 11 03 08 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ed2d9ee6-ea57-4511-8b07-483c418f0f44"> <alt="A graph depicting relative frequencies of usage of term girl in interwar period, between 1918 and 1932, highest point in 1918, then feb 1919, then Jan 1920, and then a few other small peaks, most at 0.">
+![A graph depicting relative frequencies of usage of term girl in interwar period, between 1918 and 1932, highest point in 1918, then feb 1919, then Jan 1920, and then a few other small peaks, most at 0.](<img width="566" alt="Screenshot 2023-06-08 at 11 03 08 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/ed2d9ee6-ea57-4511-8b07-483c418f0f44">) 
 
 ##### **Contexts in 1918-19:**
 
 I decided to include some of the contexts of the usage of these articles, and because around the end of WW1 was when it occurred most frequently, I included some that occurred a few months before the end of the war, those after the end of the war where usage peaked, and one a few months after the end of the war. 
 
-![A table depicting contexts of usage of the term girl within newspaper articles at the end of 1918, beginning of 1919](<img width="860" alt="Screenshot 2023-06-09 at 3 32 00 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8668bb35-8722-4981-b76d-74631d42fdb9">)
+![A table depicting contexts of usage of the term girl within newspaper articles at the end of 1918, beginning of 1919.](<img width="860" alt="Screenshot 2023-06-09 at 3 32 00 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8668bb35-8722-4981-b76d-74631d42fdb9">)
 
 I think five of these articles use girl* when referring to actual girls, as they say 'women and girls' or 'boys and girls', meaning that the 14 other uses, most of which are in reference to factory workers or workers of some kind, are referring to women.  
 
 ##### **Contexts in Post WW2 Period:**
-![A table depicting contexts of 2 usages of the term girl within newspaper articles in 1975, both talking about high schoolers](<img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">)
+![A table depicting contexts of 2 usages of the term girl within newspaper articles in 1975, both talking about high schoolers.](<img width="701" alt="Screenshot 2023-06-09 at 11 20 11 AM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/8a517ccf-8d06-429d-9177-b0dd3fe70997">)
 
 Here, we can see that the usage of 'girl' or 'girls' during the postwar period, was only used in reference to actual girls, instead of grown women. Although there were fewer texts from this period to analyze, the lack of usage in the articles I did have has significance; in the image included for contexts in 1918-19, girl* referred to actual girls about 26% of the time, and in the postwar period, although used with much less frequency, referred to actual girls 100% of the time. 
 
