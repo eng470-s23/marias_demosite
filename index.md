@@ -88,7 +88,7 @@ Oregon was a completely different place during ww2 than it had been during ww1, 
 
 ![Graph depicting frequencies of mentions of industrial in newspapers related to women labor, highest in prewar period, goes down, starts climbing, second highest during ww2, lowest postwar](https://github.com/eng470-s23/marias_demosite/assets/129902716/d4f60aab-fb40-49cd-a77b-a0241eabb56a)
 
-![Graph depicting frequencies of mentions of industry in newspapers related to women labor, low in prewar, a little higher ww1, low interwar, super high ww2, lowest postwar](https://github.com/eng470-s23/marias_demosite/assets/129902716/dcb9f6ed-013d-4148-82ef-d6737de59771">)
+![Graph depicting frequencies of mentions of industry in newspapers related to women labor, low in prewar, a little higher ww1, low interwar, super high ww2, lowest postwar](https://github.com/eng470-s23/marias_demosite/assets/129902716/dcb9f6ed-013d-4148-82ef-d6737de59771)
 
 #### What do these trends reveal?
 
@@ -106,7 +106,7 @@ They were definitely discussing all of these different things outside the contex
 
 During WW2, the mention of unions in relation to women's labor drops to none. In Portland during the war, women were doing a bunch of industrial work and were joining unions, but many didn't want to take women in because they knew they'd want to let them go at the end of the war. Many unions, employers, and women alike knew that once the war was over they would have to leave the industrial jobs that they were working during the war, because those were 'jobs for men'. While more and more women were entering the workforce, there was still tons of separation between the jobs men did and the jobs women did. Attitudes were changing somewhat, but many still believed that the main role of women was in the home, and the role of women was absolutely not in industrial work (outside of wartime). There were fewer newspapers from ww2 in the collection I examined, thus there were smaller chances for unions to be mentioned, but the lack of discussion around unions during this period wasn't a coincidence. 
 
-![frequency graph depicting mentions of unions in newspapers, highest prewar, a little lower ww1, a little lower interwar, 0 ww2, increased postwar it is second highest plot falls between plots of prewar and ww1](<img width="463" alt="Screenshot 2023-06-08 at 10 54 48 PM" src="https://github.com/eng470-s23/marias_demosite/assets/129902716/b1058abc-ccbc-49cb-8cef-fae3a9d9527c">)
+![frequency graph depicting mentions of unions in newspapers, highest prewar, a little lower ww1, a little lower interwar, 0 ww2, increased postwar it is second highest plot falls between plots of prewar and ww1](https://github.com/eng470-s23/marias_demosite/assets/129902716/b1058abc-ccbc-49cb-8cef-fae3a9d9527c)
 
 ## Conclusion
 
