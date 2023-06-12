@@ -1,41 +1,32 @@
 # README for demo-site
 
-This repository is a demo for ENG 470/570 students to clone in order to create individual project workspaces. It contains templates for all required components of the final portfolio, written in markdown. (Recommended markdown editor: [dillinger.io](https://dillinger.io/)). 
-
-- **[readme.md](readme.md) (this file)**: a template to record project-level metadata, taken from [UO Libraries' research guide to Doing Digital Projects in the Open](https://researchguides.uoregon.edu/doingdigitalprojectsintheopen/workshop2). To customize it, delete this header section up to the horizontal line (---).
-- **[license.md](license.md)**: the license defining how others can reuse your data and other content in your repository.
-- **[project-log.md](project-log.md)**: a weekly log for tracking your research notes and progress. This is also where your pitch, draft annotated bibliography, and draft environmental scan go. Revised versions of those materials will likely appear in your white paper.
-- **[data-management.md](data-management-plan.md)**: your data management plan, explaining how your project files are stored, named, published, and protected. 
-- **[presentation.md](presentation.md)**: visual aids for your presentation at our class symposium in week 9. You may choose instead to use PowerPoint, in which case this file will be presentation.ppt or presentation.pptx.
-- **[white-paper.md](white-paper.md)**: final write-up of your project and lessons learned from conceptualizing and prototyping a researched digital humanities project. Your white paper will also contain, embed, or link to the project prototype itself.
-- **[_config.yml](_config.yml)**: the file that provides basic styling info to turn your repo into a static website. 
-- **[index.md](index.md)**: the front page of your website, which can link to or aggregate any other parts of your repo using relative links.  
+- **[license.md](/license.md)**
+- **[project-log.md](/project-log.md)**
+- **[data-management.md](/data-management-plan.md)**
+- **[presentation.pdf](/presentation.pdf)**
+- **[white-paper.md](/white-paper.md)**
+- **[_config.yml](/_config.yml)**
+- **[index.md](/index.md)**
 
 ---
 
 ## Project-level Basic Information - Introduction 
 
 1. Project Name: Changing Attitudes Towards Women’s Labor: How Newspapers Reflect Popular Ideologies
-2. Dataset file name(s) and extension(s):
-3. Project description/abstract/keywords:
+2. Dataset file name(s) and extension(s): Data was filed using the naming convention: "year.month.day_newspapername_articlename" as .txt files. 
+3. Project description/abstract/keywords: For this project, I transcribed and analyzed historical newspapers to assess changes in attitudes towards women's participation in the work for in Oregon between 1910 and 1975, in relation to the world wars. (women, labor, World War 1, World War 2, Oregon)
 4. Authors and collaborators, including ORCID IDs and contact information: Maria Shimota 
-5. Dates of Data Collection (YYYYMMDD format):
-6. Date of file creation and updates, and nature of those updates (YYYYMMDD format):
+5. Dates of Data Collection (YYYYMMDD format): 20230519-20230605 
+6. Date of file creation and updates, and nature of those updates (YYYYMMDD format): I added files every day for about three weeks between 20230519 and 20230605, and on 20230608, these files were categorized and combined based on category.
 
 ## Data Access & Sharing
-1. [Licenses](https://choosealicense.com/) for the data and restrictions placed on the data
-3. Was data derived from another sourse, if so where?
-4. Recommeded [citation](https://guides.lib.umich.edu/c.php?g=439304&p=2993299) for the data
+1. Licenses: Creative Commons Attribution-NonCommercial 4.0 International Public License - for detailed information about what you can do with these project materials, visit this [link](https://creativecommons.org/licenses/by-nc/4.0/).
+2. Data for this project was collected through [Oregon Historic Newspapers](https://oregonnews.uoregon.edu/), which is available through the University of Oregon. 
+3. For citations of the data used in this project, visit: [DH Capstone Sources](/DH-Capstone-Sources). 
 
 ## Methodological and Data-specific Information
-1. Description of methods for data collection and processing
-2. Project-wide definitions of codes or symbols used to note questionable and missing data 
-3. Project-wide variables list
-    - Name:
-    - Description:
-    - Value Labels:
-4. Units of measurement
-6. Geographic information
+1. Description of methods for data collection and processing: I used a key word search 'women labor' to find newspaper articles to use for this project. I saved these as plain text files, and went through each article to make sure that they were accurate and fix any wrong transcriptions using the program 'Text Edit'. I removed any parts of these newspapers from the plain text files, so that I would only have articles or parts of articles that were relevent to my project, the edited versions were then saved onto my computer.
+2. One thing worth noting about my data collection was that beginning around 1923 or 1924, there were way fewer newspapers available through the site, most likely due to copyright (as all before 1923 are in the public domain). 
 
 ## Credits and Acknowledgments
 
