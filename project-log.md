@@ -1,7 +1,7 @@
 # Project log!
 | [Pitch](##pitch) | [Search Log](##search-log) | [Bibliography](##bibliography) | [Reading Plan](##reading-plan) | [Research Question](##research-question) | [Annotated Bibliography](##annotated-bibliography) | [Environmental Scan](##environmental-scan) | [Week 8 notes](##week-8-notes) | [Week 10 notes](##week-10-notes)
 
-## pitch
+## Pitch
 - My research topic is: How newspapers reflect changing attitudes towards women's participation in the workforce. 
 
 - My research question is: How do Oregon Historical newspapers from around the state, including articles about cities around the world, reflect changing attitudes towards women’s participation in the workforce in Oregon from 1910-1975?  
@@ -21,7 +21,7 @@
 
 ---
 
-## search log
+## Search Log
 
 For most of my searches, through both the library and JSTOR, I was able to find a lot of sources through key words without having to narrow down the searches a lot. Many of my sources came from a search of like "women labor WW2 oregon" or just "oregon labor ww2".
 
@@ -43,7 +43,7 @@ Source 7:
 Source 8: (these are the newspapers I'm using for my project): 
   - Go to the UO library search homepage -> click on "research support" and go to research guides -> journalism & communication -> finding newspaper resources -> stay on newspaper resources, scroll down, click on "Using the Historic Oregon Newspapers Website" -> click on "Historic Oregon Newspapers" -> search "women labor" and filter by year
 
-## bibliography
+## Bibliography
 
 1. source #1: Mercier, Laurie. “Breadwinning, Equity, and Solidarity: Labor Feminism in Oregon, 1945–1970.” *Oregon Historical Quarterly,* vol. 120, no. 1, 2019, pp. 6–45. JSTOR, https://doi.org/10.5403/oregonhistq.120.1.0006. Accessed 20 Apr. 2023. 
 
@@ -61,7 +61,7 @@ Source 8: (these are the newspapers I'm using for my project):
 
 8. [newspaper sources](/DH-Capstone-Sources.pdf)
 
-## reading plan
+## Reading Plan
 - read source 1: 5/1
 - read source 2: 5/1
 - read source 3: 5/3
@@ -72,10 +72,10 @@ Source 8: (these are the newspapers I'm using for my project):
 
 ---
 
-## research question
+## Research Question
 - As a history major, I wanted to conduct a historical project around the question: "How do Oregon Historical Newspapers from around the state of Oregon, including articles about cities from around the world, reflect changing attitudes towards women's participation the work force between 1910-1975? I chose this period of time because I think it encapsulates many historical events, it is a period with the overarching theme of change, and the industrialization between 1910 and 1975 changed what jobs were accessible
 
-## annotated bibliography 
+## Annotated Bibliography 
 
 ### source 1 annotation
 - citation: Mercier, Laurie. “Breadwinning, Equity, and Solidarity: Labor Feminism in Oregon, 1945–1970.” Oregon Historical Quarterly, vol. 120, no. 1, 2019, pp. 6–45. JSTOR, https://doi.org/10.5403/oregonhistq.120.1.0006. Accessed 20 Apr. 2023
@@ -128,7 +128,7 @@ Source 8: (these are the newspapers I'm using for my project):
 
 ---
 
-## environmental scan
+## Environmental Scan
 
 ### contribution
 
@@ -148,7 +148,7 @@ Source 8: (these are the newspapers I'm using for my project):
 
 ---
 
-## week 8 notes
+## Week 8 notes
 - currently text mining and transcribing news papers, as these text files will be inserted into Voyant, I thought it would make sense to use current and use one version of each word, changes made as follows: 
     - per cent -> percent
     - tokether -> together  
@@ -169,7 +169,7 @@ Source 8: (these are the newspapers I'm using for my project):
 
 ---
 
-## week 10 notes
+## Week 10 notes
 Voyant stop word list:
     - women
     - woman
