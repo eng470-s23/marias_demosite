@@ -1,10 +1,5 @@
-# week 2
-## notes
-
----
-# week 3
-## notes
-
+# Project log!
+| [Pitch](##pitch) | [Search Log](##search-log) | [Bibliography](##bibliography) | [Reading Plan](##reading-plan) | [Research Question](##research-question) | [Annotated Bibliography](##annotated-bibliography) | [Environmental Scan](##environmental-scan) | [Week 8 notes](##week-8-notes) | [Week 10 notes](##week-10-notes)
 
 ## pitch
 - My research topic is: How newspapers reflect changing attitudes towards women's participation in the workforce. 
@@ -20,16 +15,11 @@
 - My final submission will take this form: I would like to submit my project in the form of a website, using analysis, explanations, and visualizations of the data I collect. 
 
 - This project is intended to engage these audiences and communities: I think that the intended audience for this project is historians, scholars, students, or really anyone interested in topics of women and gender studies, labor history, and Oregon history.  
-
 - I bring the following existing knowledge and/or skills to the project: I already have background and experience with research, so I feel confident in my ability to find sources and important information and feel comfortable with the research process itself and the potential issues or problems that come with research. 
 
 - In order to do this project, I need to learn: I think I need to learn more about making a website. I feel like when I have tried in the past I can't always get it to look the way that I want it to so I would like to learn more about customizing the site to look the way I want. I also need to learn more about using technology past just basic uses, there are many things in relation to computers that I don't feel like I know how to do. 
 
-
 ---
-# week 4 
-## notes
-- 
 
 ## search log
 
@@ -81,8 +71,6 @@ Source 8: (these are the newspapers I'm using for my project):
 - source 7: 5/7
 
 ---
-# week 5
-## notes
 
 ## research question
 - As a history major, I wanted to conduct a historical project around the question: "How do Oregon Historical Newspapers from around the state of Oregon, including articles about cities from around the world, reflect changing attitudes towards women's participation the work force between 1910-1975? I chose this period of time because I think it encapsulates many historical events, it is a period with the overarching theme of change, and the industrialization between 1910 and 1975 changed what jobs were accessible
@@ -139,8 +127,6 @@ Source 8: (these are the newspapers I'm using for my project):
 - indication of general utility: I think that this source could potentially be useful for anyone hoping to learn more about Portland's shipyards in general, it has a lot of good background information about them and could be helpful for both broad or specific uses. This page also links to others which are similar, making it a helpful starting point for research on this topic. 
 
 ---
-# week 6
-## notes
 
 ## environmental scan
 
@@ -161,12 +147,8 @@ Source 8: (these are the newspapers I'm using for my project):
 - My entire project depends on the newspapers accessed through the UO library, and many of these sources are only available through the UO. These newspapers have been uploaded to "Oregon Historic Newspapers" which is a site created by the UO. I will use the program "textEdit", which was free, but I had to download onto my computer in order to use. To sort through and upload these texts, I will require at least 6 hours, most likely over the course of a few days, and I will need enough data on my computer to store and download all of the newspapers that I will use in this project. I will use Voyant to analyse these newspapers, which is a free and available website that anyone can use. 
 
 ---
-# week 7
-## notes
 
----
-# week 8
-## notes
+## week 8 notes
 - currently text mining and transcribing news papers, as these text files will be inserted into Voyant, I thought it would make sense to use current and use one version of each word, changes made as follows: 
     - per cent -> percent
     - tokether -> together  
@@ -186,13 +168,8 @@ Source 8: (these are the newspapers I'm using for my project):
     - decripit -> decrepit
 
 ---
-# week 9
-## notes
 
-
----
-# week 10
-## notes
+## week 10 notes
 Voyant stop word list:
     - women
     - woman
