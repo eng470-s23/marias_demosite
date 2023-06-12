@@ -19,7 +19,7 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
         - [WW1 - Labor Trends](#ww1---labor-trends)
         - [WW2 - Labor Trends](#ww2---labor-trends)
         - [What do these trends reveal?](#what-do-these-trends-reveal)
-   - [How about discussion of wages, hours, and working conditions?](#how-about-discussion-of-wages-hour,-and-working-conditions)
+   - [How about discussion of wages, hours, and working conditions?](#how-about-discussion-of-wages-hours-and-working-conditions)
    - [How about women's participance in unions?](#how-about-womens-participance-in-unions)
    - [Conclusion](#conclusion)
 
