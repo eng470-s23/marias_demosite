@@ -59,7 +59,7 @@ Source 8: (these are the newspapers I'm using for my project):
 
 7. source #7: Oliver, Gordon. “Kaiser Shipyards.” *The Oregon Encyclopedia,* Oregon Historical Society , www.oregonencyclopedia.org/articles/kaiser_shipyards/#.ZEwxeezMLs1. 
 
-8. [newspaper sources](/DH-Capstone-Sources.pdf)
+8. [newspaper sources](https://github.com/eng470-s23/marias_demosite/blob/main/DH%20Capstone%20Sources.pdf)
 
 ## Reading Plan
 - read source 1: 5/1
