@@ -1,3 +1,7 @@
+# Data Management Plan
+
+[About this File](#about-this-file) | [Expected Data and Formats](#expected-data-and-formats) | [Documentation and Metadata](#documentation-and-metadata) | [Organization and Storage](#organization-and-storage) | [Sharing, Publication, and Archiving](#sharing-publication-and-archiving) | [Accessibility](#accessibility)
+
 # about this file
 
 This file is a collection of newspaper sections about women's participance in the work force in Oregon, which have been gathered from the University of Oregon's "Historic Oregon Newspapers" website.
