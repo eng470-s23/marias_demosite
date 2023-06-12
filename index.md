@@ -10,7 +10,7 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
    - [How did the way that women were talked about change?](#how-did-the-way-that-women-were-talked-about-change) 
      - [Usage of Girls vs. Women](#usage-of-girls-vs-women)
        
-       | [Overall trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Overall-trends) | [Usage during interwar](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Usage-during-interwar) | [Contexts in 1918-19](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-1918---19) | [Contexts in Post WW2 Period](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Contexts-in-Post-WW2-Period) | [What Does It Mean?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-Does-It-Mean?) |
+       | [Overall trends](#overall-trends) | [Usage during interwar](#usage-during-interwar) | [Contexts in 1918-19](#contexts-in-1918---19) | [Contexts in Post WW2 Period](#contexts-in-post-ww2-period) | [What Does It Mean?](#what-does-it-mean) |
      - [What Was She Wearing?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-Was-She-Wearing?)
      
        | [Terms](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Terms) | [Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Trends) |
