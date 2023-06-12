@@ -11,17 +11,17 @@ Using textual analysis programs like Voyant, which are meant to analyze literatu
      - [Usage of Girls vs. Women](#usage-of-girls-vs-women)
        
        | [Overall trends](#overall-trends) | [Usage during interwar](#usage-during-interwar) | [Contexts in 1918-19](#contexts-in-1918---19) | [Contexts in Post WW2 Period](#contexts-in-post-ww2-period) | [What Does It Mean?](#what-does-it-mean) |
-     - [What Was She Wearing?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-Was-She-Wearing?)
+     - [What Was She Wearing?](#what-was-she-wearing)
      
-       | [Terms](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Terms) | [Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Trends) |
+       | [Terms](#terms) | [Trends](#trends) |
        
-   - [How did the necessity for women's labor vary during both wars?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-did-the-necessity-for-women's-labor-vary-during-both-wars?)
-        - [WW1 - Labor Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#WW1---Labor-Trends)
-        - [WW2 - Labor Trends](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#WW2---Labor-Trends)
-        - [What do these trends reveal?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#What-do-these-trends-reveal?)
-   - [How about discussion of wages, hours, and working conditions?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-about-discussion-of-wages,-hours,-and-working-conditions?)
-   - [How about women's participance in unions?](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#How-about-women's-participance-in-unions?)
-   - [Conclusion](https://github.com/eng470-s23/marias_demosite/blob/main/index.md#Conclusion)
+   - [How did the necessity for women's labor vary during both wars?](#how-did-the-necessity-for-womens-labor-vary-during-both-wars)
+        - [WW1 - Labor Trends](#ww1---labor-trends)
+        - [WW2 - Labor Trends](#ww2---labor-trends)
+        - [What do these trends reveal?](#what-do-these-trends-reveal)
+   - [How about discussion of wages, hours, and working conditions?](#how-about-discussion-of-wages-hour,-and-working-conditions)
+   - [How about women's participance in unions?](#how-about-womens-participance-in-unions)
+   - [Conclusion](#conclusion)
 
 
 ## How did the way that women were talked about change?
