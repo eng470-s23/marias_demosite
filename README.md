@@ -23,6 +23,7 @@
 1. Licenses: Creative Commons Attribution-NonCommercial 4.0 International Public License - for detailed information about what you can do with these project materials, visit this [link](https://creativecommons.org/licenses/by-nc/4.0/).
 2. Data for this project was collected through [Oregon Historic Newspapers](https://oregonnews.uoregon.edu/), which is available through the University of Oregon. 
 3. For citations of the data used in this project, visit: [DH Capstone Sources](/DH-Capstone-Sources). 
+4. I completed a [fair use evaluation](/Fair-Use-Evaluation-Documentation.pdf) for this project. 
 
 ## Methodological and Data-specific Information
 1. Description of methods for data collection and processing: I used a key word search 'women labor' to find newspaper articles to use for this project. I saved these as plain text files, and went through each article to make sure that they were accurate and fix any wrong transcriptions using the program 'Text Edit'. I removed any parts of these newspapers from the plain text files, so that I would only have articles or parts of articles that were relevent to my project, the edited versions were then saved onto my computer.
