@@ -1,5 +1,5 @@
 # Project log!
-| [Pitch](##pitch) | [Search Log](##search-log) | [Bibliography](##bibliography) | [Reading Plan](##reading-plan) | [Research Question](##research-question) | [Annotated Bibliography](##annotated-bibliography) | [Environmental Scan](##environmental-scan) | [Week 8 notes](##week-8-notes) | [Week 10 notes](##week-10-notes)
+| [Pitch](##pitch) | [Search Log](##search-log) | [Bibliography](#bibliography) | [Reading Plan](##reading-plan) | [Research Question](##research-question) | [Annotated Bibliography](##annotated-bibliography) | [Environmental Scan](##environmental-scan) | [Week 8 notes](##week-8-notes) | [Week 10 notes](##week-10-notes)
 
 ## Pitch
 - My research topic is: How newspapers reflect changing attitudes towards women's participation in the workforce. 
